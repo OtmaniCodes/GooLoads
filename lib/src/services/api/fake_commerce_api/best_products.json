@@ -1,0 +1,3889 @@
+[
+    {
+        "modificationDate": "2021-07-26T06:56:27.404Z",
+        "_id": "6104b1664de1c30012060232",
+        "commission_rate": 7,
+        "first_level_category_id": "200165144",
+        "first_level_category_name": "Hair Extensions & Wigs",
+        "hot_product_commission_rate": 0,
+        "product_detail_url": "https://www.aliexpress.com/item/1005002508745971.html",
+        "product_id": 1005002508745971,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/H291f6a49e2664e2a83a7bd1956d3e9451.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/H291f6a49e2664e2a83a7bd1956d3e9451.jpg",
+                "https://ae04.alicdn.com/kf/H7676e0b7a53f4417a5860a2223ad412eC.jpg",
+                "https://ae04.alicdn.com/kf/H327b914e6cf048d89372feb20e369576g.jpg",
+                "https://ae04.alicdn.com/kf/He351822611224155bb783a306ed5481b5.jpg",
+                "https://ae04.alicdn.com/kf/Ha89d0feda5814fc5a5ced2105c17019fr.jpg",
+                "https://ae04.alicdn.com/kf/H3b2398e4add94071af6be255d4f0335bF.jpg"
+            ]
+        },
+        "product_title": "Yeslestm Water Wave Lace Front Wig Human Hair Wig HD Lace Frontal Wig 30\" Human Hair Wigs For Women Human Hair Pre Plucked Tpart",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1TgjAkrrP772OGEe2Mlr1Ncuxnz7TLPzECz62z1iLknOUjHsZSwCbFfVrjYqUajtWObshdAZThbCyoZ7bBgzwgsJpXq42iae9pDPKObySsvKpU4Hi9hPxQT2jqcHUnE5Bt8epEtxTDYSm1pNY5UUxeSygsIp7wxLF55oeSypultfkoUbfeb6LIknzcyWIoheMT8IDKbS4j0oApLtgPHK22PhGW5Tq1cwvaN1Q6oXZLHEwMb6Rw0iy27heDGGOuPMV3S5eXzOTAYjK1rjv0Z32ujbv8BuWroOjgQ7ucYbfegnZ3I1agUM8UDgATaMSar3raIt8DJu0yhzNftAeLBMC6k9Bl1FVtnMtINJMMxYgJ6DiISPYOiM0ntMsd8pu0MGb6vlDNlNL59xrN4xPNAVdD",
+        "relevant_market_commission_rate": "3",
+        "second_level_category_id": 127886013,
+        "second_level_category_name": "Human Wigs( For Black)",
+        "shop": {
+            "_id": "6104b1664de1c30012060233",
+            "shop_id": 911420001,
+            "shop_url": "https://www.aliexpress.com/store/911420001"
+        },
+        "app_sale_price": 55.2,
+        "app_sale_price_currency": "USD",
+        "original_price": 120,
+        "sale_price": 55.2,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104b1664de1c30012060234",
+                "app_sale_price": 55.2,
+                "app_sale_price_currency": "USD",
+                "original_price": 120,
+                "sale_price": 55.2,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T02:11:50.489Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104b1664de1c30012060235",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T02:11:50.489Z"
+            }
+        ],
+        "evaluate_rate": 97.1,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104b1664de1c30012060236",
+                "evaluate_rate": 97.1,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T02:11:50.489Z"
+            }
+        ],
+        "discount_rate": 54,
+        "lastest_volume": 207,
+        "sales": [
+            {
+                "_id": "6104b1664de1c30012060237",
+                "lastest_volume": 207,
+                "modificationDate": "2021-07-31T02:11:50.489Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-26T06:56:27.404Z",
+        "_id": "6104b10c4de1c3001205e6be",
+        "commission_rate": 7,
+        "first_level_category_id": "200000297",
+        "first_level_category_name": "Apparel Accessories",
+        "hot_product_commission_rate": 8.5,
+        "product_detail_url": "https://www.aliexpress.com/item/32810548266.html",
+        "product_id": 32810548266,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/Hb7bedd56ce3c4dcd810c267be9e0e407H.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/Hb7bedd56ce3c4dcd810c267be9e0e407H.jpg",
+                "https://ae04.alicdn.com/kf/H96817a7e279542558f3227d847a0d96bK.jpg",
+                "https://ae04.alicdn.com/kf/Hed89f9db7a3d43ce9f5a84b7f38c0e3es.jpg",
+                "https://ae04.alicdn.com/kf/H364387d614dc488bbe9fdd51a6de42729.jpg",
+                "https://ae04.alicdn.com/kf/Hca7255094e15493e9e061e157d5aa6082.jpg",
+                "https://ae04.alicdn.com/kf/H4c9484b8eee64293bd0da4b47bcee3357.jpg"
+            ]
+        },
+        "product_title": "Multicam Tactical Airsoft Sniper Camouflage Bucket Boonie Hats Nepalese Cap SWAT Army Panama Military Accessories Summer Men",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1NzbwcxDQrZ2leF0HjQ2ijzSsS2iRerBsZhlOpImYDhdYb5lg6B1f7z6fJmt0BuvUSJawOm72waYjFjI80iwDpQZjnBYhQSMoDRDbQaHo9Ci28EIOl4MqcbY3SAe40cjsEj9NFgvp8YZVxLvGKrVOngToiZd4CCEZvhu2lG0ldmpMDT1nzTfoFZ5g70Zv2PEjSoy9JcIIfkkgSu17OjjyaQ0ltrvS9lfX74HnO9mrYT2h7ZuyematmRBb5SpcDwVIdLA6TnluHxi08AVN7Orm9W44Y9DFoufDhnBDpaNPM0Fmr8HVfFAOyMud5Ve58QABb6RmnNvmIqgE67goDlrfINH88Vx3WvnTjxot63O5F7skZhjaYHaUtPFN6M8g0nebkK5LZu4HHxxANNv9MeLkn",
+        "relevant_market_commission_rate": "5",
+        "second_level_category_id": 200000402,
+        "second_level_category_name": "Hats & Caps",
+        "shop": {
+            "_id": "6104b10c4de1c3001205e6bf",
+            "shop_id": 1202545,
+            "shop_url": "https://www.aliexpress.com/store/1202545"
+        },
+        "app_sale_price": 2.99,
+        "app_sale_price_currency": "USD",
+        "original_price": 8.19,
+        "sale_price": 2.99,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104b10c4de1c3001205e6c0",
+                "app_sale_price": 2.99,
+                "app_sale_price_currency": "USD",
+                "original_price": 8.19,
+                "sale_price": 2.99,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T02:10:20.683Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104b10c4de1c3001205e6c1",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T02:10:20.683Z"
+            }
+        ],
+        "evaluate_rate": 96.8,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104b10c4de1c3001205e6c2",
+                "evaluate_rate": 96.8,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T02:10:20.683Z"
+            }
+        ],
+        "discount_rate": 63,
+        "lastest_volume": 1252,
+        "sales": [
+            {
+                "_id": "6104b10c4de1c3001205e6c3",
+                "lastest_volume": 1252,
+                "modificationDate": "2021-07-31T02:10:20.683Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-26T06:56:27.404Z",
+        "_id": "6104b0ae4de1c3001205cae0",
+        "commission_rate": 9,
+        "first_level_category_id": "200000345",
+        "first_level_category_name": "Women's Clothing",
+        "hot_product_commission_rate": 0,
+        "product_detail_url": "https://www.aliexpress.com/item/4001213532248.html",
+        "product_id": 4001213532248,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/H420aed7bf7bb493180fdc1b34481cf7es.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/H420aed7bf7bb493180fdc1b34481cf7es.jpg",
+                "https://ae04.alicdn.com/kf/Hf046cd4bdcb94b17bbc644a5db976661t.jpg",
+                "https://ae04.alicdn.com/kf/H3986c1957cd14b0d8af64b80e4903318S.jpg",
+                "https://ae04.alicdn.com/kf/H43e89a992f934da1a606dd90ebf3cd77i.jpg",
+                "https://ae04.alicdn.com/kf/H910304136b074e9ba0f1515767fcf9f61.jpg",
+                "https://ae04.alicdn.com/kf/Hce2e2ac9d0b349d2a8bf90826def64917.jpg"
+            ]
+        },
+        "product_title": "women fashion animal printing casual smock blouse office ladies long sleeve business shirt female zebra pattern chic tops LS6953",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1gLh7zynCgchvIRRZ3ylhBxYlQNdPQ0FdHmdx8S6MGLVWS7saa13wHVbIVvteZ5JvpL9gfZj9B0csh2Mxp8TRlJda6cNvTCEZVUN5G1vn2cLLaA4uRlYqE7NDjTG6M5IaWhrQw39oheioCuv29wqEOzHgpesOicb1GMiDzNXp40w0w7MBZI1oNEBiKQM8ZSyRcCrb3GjfI6PNphCvxZPCN21mEf0xtq8FuvXjwBWLs2TOhg8u2vRe1geSu1zapG9dp5TwzgeabNOw66ghncgYEa6hmYZSaJBvweSH7P23tCJYbuhOWlJLSdZTEpwz1Z6mVlLk8C7hPLk5HAGLHWMDUEbqJjiv0cPcz7B7TzS1dZ4LdZOW8BTlQE27Wc9xTvLZPAIVsxuMU56tIbkds6GAn",
+        "relevant_market_commission_rate": "3",
+        "second_level_category_id": 201303001,
+        "second_level_category_name": "Shirts & Blouses",
+        "shop": {
+            "_id": "6104b0ae4de1c3001205cae1",
+            "shop_id": 345976,
+            "shop_url": "https://www.aliexpress.com/store/345976"
+        },
+        "app_sale_price": 11.39,
+        "app_sale_price_currency": "USD",
+        "original_price": 14.99,
+        "sale_price": 11.39,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104b0ae4de1c3001205cae2",
+                "app_sale_price": 11.39,
+                "app_sale_price_currency": "USD",
+                "original_price": 14.99,
+                "sale_price": 11.39,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T02:08:46.655Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104b0ae4de1c3001205cae3",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T02:08:46.655Z"
+            }
+        ],
+        "evaluate_rate": 93.6,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104b0ae4de1c3001205cae4",
+                "evaluate_rate": 93.6,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T02:08:46.655Z"
+            }
+        ],
+        "discount_rate": 24,
+        "lastest_volume": 691,
+        "sales": [
+            {
+                "_id": "6104b0ae4de1c3001205cae5",
+                "lastest_volume": 691,
+                "modificationDate": "2021-07-31T02:08:46.655Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-26T06:56:27.404Z",
+        "_id": "6104b0a74de1c3001205c7a0",
+        "commission_rate": 9,
+        "first_level_category_id": "200000345",
+        "first_level_category_name": "Women's Clothing",
+        "hot_product_commission_rate": 0,
+        "product_detail_url": "https://www.aliexpress.com/item/4000842670780.html",
+        "product_id": 4000842670780,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/Hec8ee173ddd04208867457f20a09c5d9n.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/Hec8ee173ddd04208867457f20a09c5d9n.jpg",
+                "https://ae04.alicdn.com/kf/H69c6c9da58e34ee7a2b09b3c790a7722l.jpg",
+                "https://ae04.alicdn.com/kf/H11ab7531433d43c48994f2a28e2b3e85Y.jpg",
+                "https://ae04.alicdn.com/kf/H0f04470606f0466cbaecb519ae8c3414g.jpg",
+                "https://ae04.alicdn.com/kf/Heced3693627f4f139739ade149a4a59cy.jpg",
+                "https://ae04.alicdn.com/kf/H2dca9ee77f3940efb91df070fb9a41e0n.jpg"
+            ]
+        },
+        "product_title": "FSDA Summer 2020 Women Set Spaghetti Strap Crop Top White Sexy And Mini Bodycon Skirt Ruffles Party Outfit Club Two Piece Sets",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1gUkq6RHrkxsuo5Nysjj04FIHXc5oH3MRSPwW8nEatQEg0qWOH2O8dKBd28cf8tSFRUsSDQXZnqZeJsJsbndiyhoJ2GNNSB0yL5unuS6XnfNn7rgkxZZtphAKmgViiojOsLpmLDWEE0KqyaDn9WUtxwbkqDUAD5UB5B0bUE1cikfySVJh06DOKu0l4fbd1G0D2Woe7Hn4RRD6JYuNxGXDjKFKcFc6HJisSFYBAdIxYirbsyZVS1RNiINvh9qTADvEUMICm9zBJswdNk1FSScbX3Py7QSIT9MsG7VhNDw0BqcHEMdGkkZfiPpGKsHJR7YoNqrbF8txtRIiCGkyQynM2aDupUpXQnkPQmhxJOck29llV0rkADL54cGVMppkM4S9DLpynWZbAWxnWJxrrNfJN",
+        "relevant_market_commission_rate": "5",
+        "second_level_category_id": 201531101,
+        "second_level_category_name": "Matching Sets",
+        "shop": {
+            "_id": "6104b0a74de1c3001205c7a1",
+            "shop_id": 3198013,
+            "shop_url": "https://www.aliexpress.com/store/3198013"
+        },
+        "app_sale_price": 10.99,
+        "app_sale_price_currency": "USD",
+        "original_price": 18.32,
+        "sale_price": 10.99,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104b0a74de1c3001205c7a2",
+                "app_sale_price": 10.99,
+                "app_sale_price_currency": "USD",
+                "original_price": 18.32,
+                "sale_price": 10.99,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T02:08:39.018Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104b0a74de1c3001205c7a3",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T02:08:39.018Z"
+            }
+        ],
+        "evaluate_rate": 95.1,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104b0a74de1c3001205c7a4",
+                "evaluate_rate": 95.1,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T02:08:39.018Z"
+            }
+        ],
+        "discount_rate": 40,
+        "lastest_volume": 766,
+        "sales": [
+            {
+                "_id": "6104b0a74de1c3001205c7a5",
+                "lastest_volume": 766,
+                "modificationDate": "2021-07-31T02:08:39.018Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-26T06:56:27.404Z",
+        "_id": "6104b0714de1c3001205b5c6",
+        "commission_rate": 9,
+        "first_level_category_id": "200000345",
+        "first_level_category_name": "Women's Clothing",
+        "hot_product_commission_rate": 9,
+        "product_detail_url": "https://www.aliexpress.com/item/1005001617187292.html",
+        "product_id": 1005001617187292,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/He5c855277aaa4e76be41069a5744411ds.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/He5c855277aaa4e76be41069a5744411ds.jpg",
+                "https://ae04.alicdn.com/kf/H17698027479d43c1935825297bc2377de.jpg",
+                "https://ae04.alicdn.com/kf/Hff916051e194405da3c7eb5c239092b6q.jpg",
+                "https://ae04.alicdn.com/kf/Hd24234d17d7e4eb5a310d396f54bc2e7E.jpg",
+                "https://ae04.alicdn.com/kf/H6cb66ce15b674a40a0846c57507569efM.jpg",
+                "https://ae04.alicdn.com/kf/H70673e3284a84d93aceba5dfc8d0e818E.jpg"
+            ]
+        },
+        "product_title": "2020 Office Lady Short Sleeve V Neck Stripes Print Button Belt One Piece Jumpsuit Women's Clothing боди с длинным рукавом",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1fVgCykJTqcgUf6tO3hJzCHL0x3y8dMZvuEFCjl3QRH5Ib5BYx3sQRM05WvmBxwVcvgtVDixgjJaPOCgpV9IdNMiVIoFCbOnZq5qYwDkH6NDBDG0l8o4JfppLW9npeztACHEWXPFPR7yJYPpVbWiEQboxY4izkhnwB888eTRNcYL02IxgersdilUsnHDqmYBasoxjJnQgsknKmi6nFuQzB3Caa4RQADX7bfRqwUj8OSZzhcIWwWOPcbPkSvFpZ8oOWaMM4P2TMCaPLWkLQB7abdicjQvJiONlDsxtfI0mkbMvUAWWEzR7jrpuaqJ9qjgeKJTExS9lzqeX4015tqHs3CXeq3vUEayZtJA972BA6VIHW9RHNxzzCZunuev10LVG17RToLeKICSouFctG97pp",
+        "relevant_market_commission_rate": "3",
+        "second_level_category_id": 200000362,
+        "second_level_category_name": "Jumpsuits, Playsuits & Bodysuits",
+        "shop": {
+            "_id": "6104b0714de1c3001205b5c7",
+            "shop_id": 910570242,
+            "shop_url": "https://www.aliexpress.com/store/910570242"
+        },
+        "app_sale_price": 5.63,
+        "app_sale_price_currency": "USD",
+        "original_price": 10.82,
+        "sale_price": 5.63,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104b0714de1c3001205b5c8",
+                "app_sale_price": 5.63,
+                "app_sale_price_currency": "USD",
+                "original_price": 10.82,
+                "sale_price": 5.63,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T02:07:45.588Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104b0714de1c3001205b5c9",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T02:07:45.588Z"
+            }
+        ],
+        "evaluate_rate": 83.2,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104b0714de1c3001205b5ca",
+                "evaluate_rate": 83.2,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T02:07:45.588Z"
+            }
+        ],
+        "discount_rate": 48,
+        "lastest_volume": 157,
+        "sales": [
+            {
+                "_id": "6104b0714de1c3001205b5cb",
+                "lastest_volume": 157,
+                "modificationDate": "2021-07-31T02:07:45.588Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-26T06:56:27.404Z",
+        "_id": "6104af604de1c3001205664a",
+        "commission_rate": 9,
+        "first_level_category_id": "509",
+        "first_level_category_name": "Phones & Telecommunications",
+        "hot_product_commission_rate": 13,
+        "product_detail_url": "https://www.aliexpress.com/item/1005001913405050.html",
+        "product_id": 1005001913405050,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/H7faa7664a0814938881b930c953dc373b.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/H7faa7664a0814938881b930c953dc373b.jpg",
+                "https://ae04.alicdn.com/kf/H3dbb0ec1455b4471a979126552e9f84cW.jpg",
+                "https://ae04.alicdn.com/kf/H78813e54787c449c832ea39e82714036O.jpg",
+                "https://ae04.alicdn.com/kf/H6164525494c04f45894b643fc49d905cp.jpg",
+                "https://ae04.alicdn.com/kf/H2a97bf3147e64198a80e9023abfc4570B.jpg",
+                "https://ae04.alicdn.com/kf/H4d1c512c18c64ed3aff03dbfb3a4758el.jpg"
+            ]
+        },
+        "product_title": "4.8A LED Display USB Phone Charger Car-Charger for Xiaomi Samsung For iPhone 12 11 Pro 7 8 Plus Mobile Phone Adapter Car Charger",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1ZHXqpdCJicDAICOLyYrxfc8IDcr4Q0m7Gb0YnXKRgsIqxnv0Lp9yJAEmwKYs4FytZVkcWd6YXRlNaHKjOk7hSdXmrr42oGLMIf7sG4IzPTmIs9zh5FxMoanPqLcSaCBrvyDXR1PRku9newRmhBdw640Wchts1attHm2lYgLNg93tGf4gXdmECWBhpE6OR64vmeryVnv3rGdVQmUXMOoKMtGAME1qT6smPtEZS29aQZscGLsMqekkLZfykuJHnV6XTLQWdswcK7x0DZAuczz9k4x1K1B0ooqaFrNgGuUHQoS8wCRE7Fu0evxwOkL0Te1nSKuG12RzwuP309dkSHhXQexYDB1F5NLvFVBBqHkj3NDtlp4IZcDPX6vIuEv0hAZppSOR7TLRnOqwOywLpwgvV",
+        "relevant_market_commission_rate": "3",
+        "second_level_category_id": 100001205,
+        "second_level_category_name": "Mobile Phone Accessories",
+        "shop": {
+            "_id": "6104af604de1c3001205664b",
+            "shop_id": 911238087,
+            "shop_url": "https://www.aliexpress.com/store/911238087"
+        },
+        "app_sale_price": 2.53,
+        "app_sale_price_currency": "USD",
+        "original_price": 3.62,
+        "sale_price": 2.53,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104af604de1c3001205664c",
+                "app_sale_price": 2.53,
+                "app_sale_price_currency": "USD",
+                "original_price": 3.62,
+                "sale_price": 2.53,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T02:03:12.428Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104af604de1c3001205664d",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T02:03:12.428Z"
+            }
+        ],
+        "evaluate_rate": 93.5,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104af604de1c3001205664e",
+                "evaluate_rate": 93.5,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T02:03:12.428Z"
+            }
+        ],
+        "discount_rate": 30,
+        "lastest_volume": 8446,
+        "sales": [
+            {
+                "_id": "6104af604de1c3001205664f",
+                "lastest_volume": 8446,
+                "modificationDate": "2021-07-31T02:03:12.428Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-26T06:56:27.404Z",
+        "_id": "6104ae2f4de1c300120508fc",
+        "commission_rate": 7,
+        "first_level_category_id": "15",
+        "first_level_category_name": "Home & Garden",
+        "hot_product_commission_rate": 12,
+        "product_detail_url": "https://www.aliexpress.com/item/1005001939709690.html",
+        "product_id": 1005001939709690,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/H1496a8e391604dbe8d1cb74a4ee474c3k.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/H1496a8e391604dbe8d1cb74a4ee474c3k.jpg",
+                "https://ae04.alicdn.com/kf/H2b95ab0cc0844499a87ce500607166153.jpg",
+                "https://ae04.alicdn.com/kf/H063bfda69cbd4d2481765a0043c9671el.jpg",
+                "https://ae04.alicdn.com/kf/H69223acc45b24215af0ae5423f034ae63.jpg",
+                "https://ae04.alicdn.com/kf/Hc96c267c42e64ab99b4e8df5d160383ca.png",
+                "https://ae04.alicdn.com/kf/Hae35697c5f844f3fa51e8f9184e0d4d2y.jpg"
+            ]
+        },
+        "product_title": "Simita Smart Temperature Display Vacuum Flask,Coffee Thermos Bottle,304 Stainless Steel,Thermos For Tea,BPA Free,500ML",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1UeEqiPz8ewlrGV8BSlOm5c3nG3B7JOC8dGpQkYYnohw0ImDm0f1jdO63fYwwc3lHqaOgmRJZhXi5zqEw2DZAhk5QPlKpCP6gYPdY1ekmiJKG6dYLCLmxETeSUmIxuHtQ7DWtrvAItE5bCQxgiaz5TJCgrIGTtaHX6aTGwZNN75B5Htf1vXeSmtqx2xD0iDn0nYIrElflg82k58jJJ7Hy2IoAkXfNeaMFoZNu4Gfa4roTK2AiBtU7Ndn6edAGStW4wHsXDyMLNzGXK8uplCxVUDzv1iDpQL4EsY9WrF4Xr2WVe1edEOpNyfbc7FwMaETNaBJzUgIRFsqGdlmaHiSa4KVc2Vx8u51ZuudAporOBojzJiUjEAozBox0hJt4KhjeQn7uqF6VVVlKVzHycvvXd",
+        "relevant_market_commission_rate": "3",
+        "second_level_category_id": 200000920,
+        "second_level_category_name": "Kitchen,Dining & Bar",
+        "shop": {
+            "_id": "6104ae2f4de1c300120508fd",
+            "shop_id": 5792538,
+            "shop_url": "https://www.aliexpress.com/store/5792538"
+        },
+        "app_sale_price": 16.71,
+        "app_sale_price_currency": "USD",
+        "original_price": 37.98,
+        "sale_price": 16.71,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104ae2f4de1c300120508fe",
+                "app_sale_price": 16.71,
+                "app_sale_price_currency": "USD",
+                "original_price": 37.98,
+                "sale_price": 16.71,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:58:07.730Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104ae2f4de1c300120508ff",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:58:07.730Z"
+            }
+        ],
+        "evaluate_rate": 96.4,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104ae2f4de1c30012050900",
+                "evaluate_rate": 96.4,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:58:07.730Z"
+            }
+        ],
+        "discount_rate": 56,
+        "lastest_volume": 1539,
+        "sales": [
+            {
+                "_id": "6104ae2f4de1c30012050901",
+                "lastest_volume": 1539,
+                "modificationDate": "2021-07-31T01:58:07.730Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-26T06:56:27.404Z",
+        "_id": "6104ae264de1c300120504ee",
+        "commission_rate": 7,
+        "first_level_category_id": "15",
+        "first_level_category_name": "Home & Garden",
+        "hot_product_commission_rate": 8,
+        "product_detail_url": "https://www.aliexpress.com/item/4000160616072.html",
+        "product_id": 4000160616072,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/H5d871cbd51ce492892cfd7f415559a7dz.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/H5d871cbd51ce492892cfd7f415559a7dz.jpg",
+                "https://ae04.alicdn.com/kf/Heffd60d0838e459697cf0947cfa675b1p.jpg",
+                "https://ae04.alicdn.com/kf/H59a295a3aa1e4317bbe0659499d9e36bm.jpg",
+                "https://ae04.alicdn.com/kf/H93e5d38f5f844a549990c3f98f882e77B.jpg",
+                "https://ae04.alicdn.com/kf/H82c1f168f2db4dd5a6e7da33b95b48a1W.jpg",
+                "https://ae04.alicdn.com/kf/H334bd90e98d24c4ab0a953a31e1d796dG.jpg"
+            ]
+        },
+        "product_title": "Wall Mounted Organizer Storage Box Remote Control Air Conditioner Storage Case Mobile Phone Plug Holder Stand Container Rack 1PC",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1OGpPPuRPifuHbZiYxKbWhrY9fb31GLvhQlnPBEovhEXyelB6Y7td26y0wXgmY0TQWgVd9olkI4uVE3wq7aKlfBNUEk2YgN60XPpnt8JJSfX79DiODfaDchi8cND1HEveeYwhd2de2mYqznfbawsZLFQdH3Bd26Uh9vjQNNKMTZhEajsFzV5jmYigiMyLKmnwjoqPYu2lVBArSh1gAT61aEiatKO3mmgull85l1Y8SAgXYSxpfohBg1frRIVfSdFDYd1LBd1INnazUhMIExsUG77qHpSAROPeh2FBKNNz3EpOscSFmOKDz7dxywrimRwCQ9VluT2SFyTLyVuAIsdNcXU67sgqzCOLPA0FdSv5gRsSqe1MBd4ZZNhorClHY2ErsO84vqUJqwPNgE8W5X0t9",
+        "relevant_market_commission_rate": "4",
+        "second_level_category_id": 1541,
+        "second_level_category_name": "Home Storage & Organization",
+        "shop": {
+            "_id": "6104ae264de1c300120504ef",
+            "shop_id": 4980040,
+            "shop_url": "https://www.aliexpress.com/store/4980040"
+        },
+        "app_sale_price": 1.45,
+        "app_sale_price_currency": "USD",
+        "original_price": 6.54,
+        "sale_price": 1.45,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104ae264de1c300120504f0",
+                "app_sale_price": 1.45,
+                "app_sale_price_currency": "USD",
+                "original_price": 6.54,
+                "sale_price": 1.45,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:57:58.622Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104ae264de1c300120504f1",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:57:58.623Z"
+            }
+        ],
+        "evaluate_rate": 96.3,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104ae264de1c300120504f2",
+                "evaluate_rate": 96.3,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:57:58.623Z"
+            }
+        ],
+        "discount_rate": 77,
+        "lastest_volume": 2536,
+        "sales": [
+            {
+                "_id": "6104ae264de1c300120504f3",
+                "lastest_volume": 2536,
+                "modificationDate": "2021-07-31T01:57:58.623Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-31T01:58:10.172Z",
+        "_id": "6104ae194de1c3001204ff50",
+        "commission_rate": 7,
+        "first_level_category_id": "15",
+        "first_level_category_name": "Home & Garden",
+        "hot_product_commission_rate": 10.5,
+        "product_detail_url": "https://www.aliexpress.com/item/4000807197029.html",
+        "product_id": 4000807197029,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/H59cba7b056754bcea93bf22ca19c0f78t.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/H59cba7b056754bcea93bf22ca19c0f78t.jpg",
+                "https://ae04.alicdn.com/kf/H528a1422be0b4058b01346a98b187977H.jpg",
+                "https://ae04.alicdn.com/kf/Hddb569dde2a24b358b6ee78241d14fb0V.jpg",
+                "https://ae04.alicdn.com/kf/H1b917bc71ee943e1bd47cb5f0c2ac4faE.jpg",
+                "https://ae04.alicdn.com/kf/H9ece51240b7442d582a87e849b2a74abx.jpg",
+                "https://ae04.alicdn.com/kf/H5c785245c1834884af97f998a6bf4b95y.jpg"
+            ]
+        },
+        "product_title": "Top One Way Mirror Window Film Vinyl Self-adhesive Reflective Solar Film Privacy Window Tint for Home Blue Silver Glass Stickers",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1ZIvp4mUJkjzxasvsPu6igPZ6MODlOEV39PjS9Xy3eP7PdZtVQe8228TzxraT38fIEmqKSMrgerIeYIWciHUWx1QxDjpBfr6gd51Bz7w2EosgZ0Q4ZH6HrvliVTIuXqXVVrS9QXuBYxwCTh2lDlaN6FbXpA6QKKtSwCuYzbgwvkeFz4se9M5K4aQQz9hl1aZWcuKibTFpxIasGxFvPNDQjRlPzAxqEWRQMYg1NHn4pqje24swEtm1G3yrqak3Gzp0B4hwc1sT0r6mbHn74UNAhKmAOUVUabUjBUQ46RQ8iv8dsLCFRSnWD9bVTb8as5NegpLVQwsWLp7PRYbjCJZqCMImjY2DMWKysKpUKYqzUzRyH0Guc6ScCzSMz40weRi8e2cktc5HnMSSZoK38hj0f",
+        "relevant_market_commission_rate": "3",
+        "second_level_category_id": 3710,
+        "second_level_category_name": "Home Decor",
+        "shop": {
+            "_id": "6104ae324de1c30012050a2f",
+            "shop_id": 2973010,
+            "shop_url": "https://www.aliexpress.com/store/2973010"
+        },
+        "app_sale_price": 4.99,
+        "app_sale_price_currency": "USD",
+        "original_price": 9.98,
+        "sale_price": 4.99,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104ae194de1c3001204ff52",
+                "app_sale_price": 4.99,
+                "app_sale_price_currency": "USD",
+                "original_price": 9.98,
+                "sale_price": 4.99,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:57:45.594Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104ae194de1c3001204ff53",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:57:45.594Z"
+            }
+        ],
+        "evaluate_rate": 92.6,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104ae194de1c3001204ff54",
+                "evaluate_rate": 92.6,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:57:45.594Z"
+            }
+        ],
+        "discount_rate": 50,
+        "lastest_volume": 3750,
+        "sales": [
+            {
+                "_id": "6104ae194de1c3001204ff55",
+                "lastest_volume": 3750,
+                "modificationDate": "2021-07-31T01:57:45.594Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-26T06:56:27.404Z",
+        "_id": "6104ae194de1c3001204ff46",
+        "commission_rate": 7,
+        "first_level_category_id": "15",
+        "first_level_category_name": "Home & Garden",
+        "hot_product_commission_rate": 8,
+        "product_detail_url": "https://www.aliexpress.com/item/4000510866647.html",
+        "product_id": 4000510866647,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/Hef19c3b2e47745328b2d5fa579bdd2de0.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/Hef19c3b2e47745328b2d5fa579bdd2de0.jpg",
+                "https://ae04.alicdn.com/kf/H8c3ec3bb22e1456896f87c49856866aeF.jpg",
+                "https://ae04.alicdn.com/kf/H45bc70f00b094e0cb70b60ec2561d227T.jpg",
+                "https://ae04.alicdn.com/kf/Heeb4da85d04c46888f03f21aa77bd03bs.jpg",
+                "https://ae04.alicdn.com/kf/H13f22faeb7db42c7b65dbe3be545c8a3G.jpg",
+                "https://ae04.alicdn.com/kf/H15f2769f37e54a36bf148d899bdd2058T.jpg"
+            ]
+        },
+        "product_title": "OYOREFD Waterproof Tampon Storage Bag Cute Sanitary Pad Pouches Portable Makeup Lipstick Key Earphone Data Cables Organizer",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD16h0BzLKVkhXqIXv4hlmdHZeb2fsgEol71VwHzg5rgNj8FWPGL7LEHhedkqCMlgsLdTgVVUTxY3FWKYcsmWNzBjJw4RzapQZCO1jr2RZcxOIa61iaLFZtLeBNTSNMUc7Nx75dWswxlNNZyg4l3qcNqvx1FYkdMMf6Hzb730YvH4FHPrk2RMUaCjvlgcWoBOW6FlTtEJMIqsGwgTk0SiBkpHiHkyIlO2NM6EM7woUNf3eQp9L7me7UsrV5EcPJQnREoubb4Hsh8zZAqlYQaPp38un66iTH8cgA02jX4OaGbMGcqcTT93hjMC8gvWpF9QU3oSSRdiPxjVxvkStdGeQ1b6Vxn0tVgbhDEoVMMkzKDbbmIA3VIU0O8kuDH06fT2qWTwIkFt1BSywXhKm0ijc95",
+        "relevant_market_commission_rate": "7",
+        "second_level_category_id": 1541,
+        "second_level_category_name": "Home Storage & Organization",
+        "shop": {
+            "_id": "6104ae194de1c3001204ff47",
+            "shop_id": 4086005,
+            "shop_url": "https://www.aliexpress.com/store/4086005"
+        },
+        "app_sale_price": 2.29,
+        "app_sale_price_currency": "USD",
+        "original_price": 2.41,
+        "sale_price": 2.29,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104ae194de1c3001204ff48",
+                "app_sale_price": 2.29,
+                "app_sale_price_currency": "USD",
+                "original_price": 2.41,
+                "sale_price": 2.29,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:57:45.544Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104ae194de1c3001204ff49",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:57:45.544Z"
+            }
+        ],
+        "evaluate_rate": 96.5,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104ae194de1c3001204ff4a",
+                "evaluate_rate": 96.5,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:57:45.544Z"
+            }
+        ],
+        "discount_rate": 5,
+        "lastest_volume": 4516,
+        "sales": [
+            {
+                "_id": "6104ae194de1c3001204ff4b",
+                "lastest_volume": 4516,
+                "modificationDate": "2021-07-31T01:57:45.544Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-31T01:58:05.996Z",
+        "_id": "6104ae194de1c3001204ff3e",
+        "commission_rate": 7,
+        "first_level_category_id": "15",
+        "first_level_category_name": "Home & Garden",
+        "hot_product_commission_rate": 8,
+        "product_detail_url": "https://www.aliexpress.com/item/1005001657971243.html",
+        "product_id": 1005001657971243,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/Hbb74efa96c634f21b81e6c2aa55c6823P.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/Hbb74efa96c634f21b81e6c2aa55c6823P.jpg",
+                "https://ae04.alicdn.com/kf/H227e718e55db40db8bc93ea0b2cca756r.jpg",
+                "https://ae04.alicdn.com/kf/He6b886c019fd4d209e6db726f1c1365cb.jpg",
+                "https://ae04.alicdn.com/kf/Hc8982011f83a4e7898fac169afb1b2f7u.jpg",
+                "https://ae04.alicdn.com/kf/H85f72bbfca714ab49f9e5d0f9fdab733w.jpg",
+                "https://ae04.alicdn.com/kf/Hbe9b19df6fb14756b9ee3dfb91afb928p.jpg"
+            ]
+        },
+        "product_title": "1/3pcs Vacuum Red Wine Bottle Cap Stopper Silicone Sealed Champagne Bottle Stopper Vacuum Retain Freshness Wine Plug Bar Tools",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD16ClZa0iT6s2gOWZrjxIkAABKAfjDQCnw5Ds8ZsRigankDDIBxcHae1wPAki9Uu5cW0aykQsdZRa1ttEysCMqqWIAtdTB4Wqm6L6dRFr8YHdqMhz2ZJth15aCSZGZnzAArf5SR8txoCerB48syypwK5mrmf37Rr9gi4Ep7MmMSogHv1KmFDH2AKFW8MU1VhVU4KkOPgfCetmedFosAQmSCXSFRflMDBLAwcRJF0OVnm98WUK3DchFRAIBJ9754SH2FdKR4nqaHBio6WIGAM2SJKLzdF6nLqcrWtqnm9tchWnfEgIFSVfumjwE2BwTOwJRaUiTqyD4buq8Z0Rf8k9JCpf5yrvvtX70a0aAgH3lj0y5f9byusg5gffwamunRRVbFhvC61tyuUPKSOITZWY9l",
+        "relevant_market_commission_rate": "3",
+        "second_level_category_id": 200000920,
+        "second_level_category_name": "Kitchen,Dining & Bar",
+        "shop": {
+            "_id": "6104ae2d4de1c3001205083b",
+            "shop_id": 910438122,
+            "shop_url": "https://www.aliexpress.com/store/910438122"
+        },
+        "app_sale_price": 0.01,
+        "app_sale_price_currency": "USD",
+        "original_price": 4.18,
+        "sale_price": 0.01,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104ae194de1c3001204ff40",
+                "app_sale_price": 0.01,
+                "app_sale_price_currency": "USD",
+                "original_price": 4.18,
+                "sale_price": 0.01,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:57:45.513Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104ae194de1c3001204ff41",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:57:45.513Z"
+            }
+        ],
+        "evaluate_rate": 93.7,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104ae194de1c3001204ff42",
+                "evaluate_rate": 93.7,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:57:45.513Z"
+            }
+        ],
+        "discount_rate": 99,
+        "lastest_volume": 12117,
+        "sales": [
+            {
+                "_id": "6104ae194de1c3001204ff43",
+                "lastest_volume": 12117,
+                "modificationDate": "2021-07-31T01:57:45.513Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-26T06:56:27.404Z",
+        "_id": "6104ae194de1c3001204ff18",
+        "commission_rate": 7,
+        "first_level_category_id": "15",
+        "first_level_category_name": "Home & Garden",
+        "hot_product_commission_rate": 0,
+        "product_detail_url": "https://www.aliexpress.com/item/1005001391961781.html",
+        "product_id": 1005001391961781,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/Hc7ee1f5841804a56ae850b65705ba5abE.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/Hc7ee1f5841804a56ae850b65705ba5abE.jpg",
+                "https://ae04.alicdn.com/kf/Hb74359e5fe6a409e892554ff13458f689.jpg",
+                "https://ae04.alicdn.com/kf/H92ed2be008f8496c91cdd0a51071c47fg.jpg",
+                "https://ae04.alicdn.com/kf/Hf723a523ca9242bcb1ce158f87d2017f4.jpg",
+                "https://ae04.alicdn.com/kf/Hb229d6ae35ff451fb0fb4bb0d3fba88eP.jpg",
+                "https://ae04.alicdn.com/kf/H670e31331cb9478fb685d770f27bdf96Q.jpg"
+            ]
+        },
+        "product_title": "Cute Cat Hammock Hanging Beds for Cats Comfortable Cat Window Hammock Bed With Blanket Detachable Soft Seat Beds Bearing 20kg",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1ZSSV4keJzk8y09yfckFbntnmFmp3kkcVe7PDqy2Jq7u22oflXKoyoUtTXF9Kq6quUkVQ5qU9tGD7aoUJXbizNwA9Anv8uVXoDu69UJLVamguXjGIgoYI1l1MixnZOiBaBfxFq8ckisrVlyX8YoywPlD8K3IQNPW7OkqyLj3B14UnVAtX6kOtKlEJyAmClsHr9naw9E4hSbYQhO3CJLeWk77EvzyjEDcxIFOrg0lT1NNcAOjTSIaaxbw1jvxDfX1cPMrKD1nkJRujMNEITXNGn5oxCG7n6zjEMeOqvQzeSYzZC7z5KhwIQ5ZeTnaxRClAmI5c5hiW2fKec5aEWHBFHwCcnccx5bExVuDcoRd9mOdOiHSXUSk6KqqDrX7neFjusAOF91kq0k2Ea9k2lF2Qn",
+        "relevant_market_commission_rate": "3",
+        "second_level_category_id": 100006664,
+        "second_level_category_name": "Pet Products",
+        "shop": {
+            "_id": "6104ae194de1c3001204ff19",
+            "shop_id": 910357346,
+            "shop_url": "https://www.aliexpress.com/store/910357346"
+        },
+        "app_sale_price": 11.69,
+        "app_sale_price_currency": "USD",
+        "original_price": 16.47,
+        "sale_price": 11.69,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104ae194de1c3001204ff1a",
+                "app_sale_price": 11.69,
+                "app_sale_price_currency": "USD",
+                "original_price": 16.47,
+                "sale_price": 11.69,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:57:45.196Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104ae194de1c3001204ff1b",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:57:45.196Z"
+            }
+        ],
+        "evaluate_rate": 96.8,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104ae194de1c3001204ff1c",
+                "evaluate_rate": 96.8,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:57:45.196Z"
+            }
+        ],
+        "discount_rate": 29,
+        "lastest_volume": 4204,
+        "sales": [
+            {
+                "_id": "6104ae194de1c3001204ff1d",
+                "lastest_volume": 4204,
+                "modificationDate": "2021-07-31T01:57:45.196Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-26T06:56:27.404Z",
+        "_id": "6104ae184de1c3001204fee4",
+        "commission_rate": 7,
+        "first_level_category_id": "15",
+        "first_level_category_name": "Home & Garden",
+        "hot_product_commission_rate": 8,
+        "product_detail_url": "https://www.aliexpress.com/item/32840878578.html",
+        "product_id": 32840878578,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/H61d39122fe6b442db8517cf8923ba8e4z.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/H61d39122fe6b442db8517cf8923ba8e4z.jpg",
+                "https://ae04.alicdn.com/kf/HTB1vP1nXPgy_uJjSZSgq6zz0XXak.jpg",
+                "https://ae04.alicdn.com/kf/HTB1EthIccnI8KJjSsziq6z8QpXaL.jpg",
+                "https://ae04.alicdn.com/kf/HTB1F.FScnvI8KJjSspjq6AgjXXaI.jpg",
+                "https://ae04.alicdn.com/kf/HTB15AfSaQfb_uJjSsrbq6z6bVXas.jpg",
+                "https://ae04.alicdn.com/kf/HTB16O4JchHI8KJjy1zbq6yxdpXac.jpg"
+            ]
+        },
+        "product_title": "Chzimade 1Roll 10 Metres Hot Melt Adhesive Mesh Tape Double-sided Release Protector Paper Film Fastener Tape",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1ZMgfg5TA5Kd4HaXWPpK4H6K8QqDFAzEgLzM28HjawWkanLD6Pp1ycEJXGL5pQEDg7YAEWpUkGFGzRywmdRfDwBgFOkHWF3vbx2iFjfIsuCOhR5PYr0AKPoUaFTAShpoktDQQupyhv4dw147DW9Qleek05ViHRIA8ILDuzv55HaoVtFIW8zPn2c11bprlNpq6EQrslBpCGYQoJQB4elNZ5RkoXsP0JeTpolreJVI4NpDyNfNVzdSImQ13W4dm0skYxlML8WRg7G21r7s6Rbbs1NwK3Awn1tVHPvZJTyuI7uSON8E3p7uKLcnz0GGf5FtiCu816vn0gXh6c1oilPmnQURmaLY0slL4Z3m27m0nMaRTlU9pby2jvrjn9Ayo8WlfTL6s24IidC71yEZRaPKIn",
+        "relevant_market_commission_rate": "5",
+        "second_level_category_id": 200003937,
+        "second_level_category_name": "Arts,Crafts & Sewing",
+        "shop": {
+            "_id": "6104ae184de1c3001204fee5",
+            "shop_id": 223265,
+            "shop_url": "https://www.aliexpress.com/store/223265"
+        },
+        "app_sale_price": 0.01,
+        "app_sale_price_currency": "USD",
+        "original_price": 2.58,
+        "sale_price": 0.01,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104ae184de1c3001204fee6",
+                "app_sale_price": 0.01,
+                "app_sale_price_currency": "USD",
+                "original_price": 2.58,
+                "sale_price": 0.01,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:57:44.811Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104ae184de1c3001204fee7",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:57:44.811Z"
+            }
+        ],
+        "evaluate_rate": 97.5,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104ae184de1c3001204fee8",
+                "evaluate_rate": 97.5,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:57:44.811Z"
+            }
+        ],
+        "discount_rate": 99,
+        "lastest_volume": 3728,
+        "sales": [
+            {
+                "_id": "6104ae184de1c3001204fee9",
+                "lastest_volume": 3728,
+                "modificationDate": "2021-07-31T01:57:44.811Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-26T06:56:27.404Z",
+        "_id": "6104ad9f4de1c3001204e316",
+        "commission_rate": 7,
+        "first_level_category_id": "7",
+        "first_level_category_name": "Computer & Office",
+        "hot_product_commission_rate": 0,
+        "product_detail_url": "https://www.aliexpress.com/item/1005001678618255.html",
+        "product_id": 1005001678618255,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/Hc75c7a4ad9b64ef98a442f6008a89e51u.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/Hc75c7a4ad9b64ef98a442f6008a89e51u.jpg",
+                "https://ae04.alicdn.com/kf/H0412cb6f19e64577afa2d596a83871744.jpg",
+                "https://ae04.alicdn.com/kf/H4b7f7e7cb0164e8d83c3d7fb14cc97dfK.jpg",
+                "https://ae04.alicdn.com/kf/Hbeb29581d85945a3abfb2b303bc35df9C.jpg",
+                "https://ae04.alicdn.com/kf/H2f1804f531844893bde0373b59318ef6I.jpg",
+                "https://ae04.alicdn.com/kf/Hf111cac9a5384600ae522e8daf06bc56V.jpg"
+            ]
+        },
+        "product_title": "2-Port HDMI USB KVM 4K Switch Splitter For Shared Monitor Keyboard And Mouse Adaptive EDID / HDCP Printer Plug And Play",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1V3zd2jgTuCiMYYTkwkI8tm5wdGj2ajxNud2PW27TnVWCbEmzrDQ566yRn9EqYWguk75bPeqpp5iMUoA9Uu38KZuUz6NPqxtjhyz73ooXOr9qNhJ7VYulnRTgxkBkankFgb1Li5bIrX9aPE6v203lhGfcEjWp1wULSaEt8TFozZ0AQdEXojjBsCairX2o5K4dcq1UyXhQIFHgVUQnnxe8PRCqZUIW4ZpDwfb81FEede7SRoSnA1xZMNEwc71BrXRfWxEKphS4axQuFtFI5x7Z1hYLKTke5cSj9G0sNnWStxNTa2Hz5FMUbbEOUN4WQ0d3SQU7jA6PdgsPC0i7H3CkG8Sy1ZoARGmbSFJx0PUvskP661E9jGouuoL7TEDjRRxDYCqPkPW6vWVEDOdYXWbaF",
+        "relevant_market_commission_rate": "3",
+        "second_level_category_id": 100005329,
+        "second_level_category_name": "KVM Switches",
+        "shop": {
+            "_id": "6104ad9f4de1c3001204e317",
+            "shop_id": 2948165,
+            "shop_url": "https://www.aliexpress.com/store/2948165"
+        },
+        "app_sale_price": 15.94,
+        "app_sale_price_currency": "USD",
+        "original_price": 21.84,
+        "sale_price": 15.94,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104ad9f4de1c3001204e318",
+                "app_sale_price": 15.94,
+                "app_sale_price_currency": "USD",
+                "original_price": 21.84,
+                "sale_price": 15.94,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:55:43.023Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104ad9f4de1c3001204e319",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:55:43.023Z"
+            }
+        ],
+        "evaluate_rate": 95.9,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104ad9f4de1c3001204e31a",
+                "evaluate_rate": 95.9,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:55:43.023Z"
+            }
+        ],
+        "discount_rate": 27,
+        "lastest_volume": 1961,
+        "sales": [
+            {
+                "_id": "6104ad9f4de1c3001204e31b",
+                "lastest_volume": 1961,
+                "modificationDate": "2021-07-31T01:55:43.023Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-26T06:56:27.404Z",
+        "_id": "6104ad974de1c3001204e006",
+        "commission_rate": 7,
+        "first_level_category_id": "6",
+        "first_level_category_name": "Home Appliances",
+        "hot_product_commission_rate": 0,
+        "product_detail_url": "https://www.aliexpress.com/item/32848132613.html",
+        "product_id": 32848132613,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/HTB1Pq87ltbJ8KJjy1zjq6yqapXaN.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/HTB1Pq87ltbJ8KJjy1zjq6yqapXaN.jpg",
+                "https://ae04.alicdn.com/kf/HTB1Z9y4lxPI8KJjSspoq6x6MFXai.jpg",
+                "https://ae04.alicdn.com/kf/HTB1mK6glxPI8KJjSspfq6ACFXXa2.jpg"
+            ]
+        },
+        "product_title": "2L 3L 4L 5L 6L latest technology gold rice cooker pot aluminum alloy tank for intelligent rice cookers bowl tank",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD167HyYM9zbb0L00ioZaI4OmLTIA6BIGiE2MS2ScFpMQQhyk1QHFc7lhW58VVqWUpby9INUpTXEVGjqe9vAurV3WAcelERmyquerZNLZF4tMWvVf5HgSUaFIEcT38xhP527A7Vh72EHw5xGRP8NiLiVTUXBNJXIsBSY113jqeLMHCrFYs1L5ar8IfmgtTwn8oLez9k4avBOozbeBYvmb4wLJd4RKtiYgYWu3qOyzobCSx9gOwP4agegwUbNqVFb9JhDZWfk22X7V3McZA7WAwCsl0r8HGXW97UlydFR6ByGLNMp42wo0E9GlntpAKzMKTbim6ACjcq1iKnHkE5qvub8NrmlOJJRjg9BJRG6I1bN5PsZ0xHcz2A4ICjuY3LT1pnzrS7VlscG88NqFL53kwGT",
+        "relevant_market_commission_rate": "3",
+        "second_level_category_id": 200293142,
+        "second_level_category_name": "Major Appliances",
+        "shop": {
+            "_id": "6104ad974de1c3001204e007",
+            "shop_id": 1048169,
+            "shop_url": "https://www.aliexpress.com/store/1048169"
+        },
+        "app_sale_price": 13.2,
+        "app_sale_price_currency": "USD",
+        "original_price": 13.89,
+        "sale_price": 13.2,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104ad974de1c3001204e008",
+                "app_sale_price": 13.2,
+                "app_sale_price_currency": "USD",
+                "original_price": 13.89,
+                "sale_price": 13.2,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:55:35.326Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104ad974de1c3001204e009",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:55:35.326Z"
+            }
+        ],
+        "evaluate_rate": 96,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104ad974de1c3001204e00a",
+                "evaluate_rate": 96,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:55:35.326Z"
+            }
+        ],
+        "discount_rate": 5,
+        "lastest_volume": 14,
+        "sales": [
+            {
+                "_id": "6104ad974de1c3001204e00b",
+                "lastest_volume": 14,
+                "modificationDate": "2021-07-31T01:55:35.326Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-31T02:12:23.117Z",
+        "_id": "6104ad4f4de1c3001204d88e",
+        "commission_rate": 7,
+        "first_level_category_id": "200001075",
+        "first_level_category_name": "Special Category",
+        "hot_product_commission_rate": 0,
+        "product_detail_url": "https://www.aliexpress.com/item/1005002438713472.html",
+        "product_id": 1005002438713472,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/Hd98603761cd74437996aec0733a6fbddB.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/Hd98603761cd74437996aec0733a6fbddB.jpg"
+            ]
+        },
+        "product_title": "Extra Shipping cots",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD16GaVVwqd78nFMp04ueu0hIwWDYJYMNZrnmGOKIqmPHZIwXx0Ac2yLDvC2WRvgQOrCU7Mgi2jBEQAILOoqFFXZrnkz7fCf5zFHVmbL1MJJpPfQmKZ4o59SEbOmWxmx6TLaXNWbKKBbJ167hFwloMwgBYSHgVwM2uXY0Nlwnff894Q3YluFEOWS6WWJeXO98UsyWEmsiGzSwEQTpu3iwJFDvGwUJz75lEGDfoFv9tUI3eCl5pZYtavsL2SHyMY33fQHfFYqrF9xrjvo69FXxR4PHGYHe8s15thLeIPOQwmygALqTMFdvuspRewBE5WOqc0s1sVvxflAb6yg7QKGMEMT3Q0ennkbMFsGyDvi7GZ7jhLM7WL4Dk2fMBCDaaSIOjpngsFNBmXrNms0M641sDGB",
+        "relevant_market_commission_rate": "5",
+        "second_level_category_id": 200001079,
+        "second_level_category_name": "Additional Pay on Your Order",
+        "shop": {
+            "_id": "6104b1874de1c30012060a73",
+            "shop_id": 2946052,
+            "shop_url": "https://www.aliexpress.com/store/2946052"
+        },
+        "app_sale_price": 0.01,
+        "app_sale_price_currency": "USD",
+        "original_price": 0.01,
+        "sale_price": 0.01,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104ad4f4de1c3001204d890",
+                "app_sale_price": 0.01,
+                "app_sale_price_currency": "USD",
+                "original_price": 0.01,
+                "sale_price": 0.01,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:54:23.603Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104ad4f4de1c3001204d891",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:54:23.604Z"
+            }
+        ],
+        "evaluate_rate": 0,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104ad4f4de1c3001204d892",
+                "evaluate_rate": 0,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:54:23.604Z"
+            }
+        ],
+        "discount_rate": 0,
+        "lastest_volume": 243,
+        "sales": [
+            {
+                "_id": "6104ad4f4de1c3001204d893",
+                "lastest_volume": 243,
+                "modificationDate": "2021-07-31T01:54:23.604Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-31T02:10:52.017Z",
+        "_id": "6104acf64de1c3001204c2b4",
+        "commission_rate": 7,
+        "first_level_category_id": "200000297",
+        "first_level_category_name": "Apparel Accessories",
+        "hot_product_commission_rate": 0,
+        "product_detail_url": "https://www.aliexpress.com/item/4001234137959.html",
+        "product_id": 4001234137959,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/Hb18dc93196294a5eb2b9177689335f12d.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/Hb18dc93196294a5eb2b9177689335f12d.jpg",
+                "https://ae04.alicdn.com/kf/H859a90f6b1bc4cc0b171373eba8c00410.jpg",
+                "https://ae04.alicdn.com/kf/H2d74bd5e78ef430c80d012be046eb050O.jpg",
+                "https://ae04.alicdn.com/kf/Hbf9199c7d421401783cf149b17ba38dcy.jpg",
+                "https://ae04.alicdn.com/kf/H2e9f1e8dbf4541caa6fa2b69b247d0d1a.jpg",
+                "https://ae04.alicdn.com/kf/H6deddf7a6b46409f868ce5aa0f9c02ebu.jpg"
+            ]
+        },
+        "product_title": "2020 New Ethnic Summer Thin Print Beach Travel Scarf Women Tassel Fringed Shawl Scarf Seaside Holiday Sunscreen Beach 180*90cm",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1Aui9ZSqFj4fFeqGMz6MDk4jVcXI2QZBpYpX9jv0i1WJ9lw696FZsxCWRkI5wCIycKxoyBKkYtrPEPpYPBpM4XCJeMPlUzbqzLO73L5HV74Y7NPAAgfr1PZYS6hQkeIxDfh2Mv7pqjBSyv86q11oPF2IorsKXN3njghvl9ZQlVG1lZiigDHaBfVjPWzOeoIiz7tBLoPX0jwGzrb49slChVjaPN6O5aC1qtKFOQQOtAU2gApVrjucTMQQ3vl6doAr1j1IsSi6RXgi4FftqEfY5JMTGrtl6DWkAh1XYxjpS1Do4yYBLzyyoxzjupCyxkUQYOFw7giJtKYj6wPtdVBSFhCfr0B2jKEIukmnW8Jkzgrzb8wy4y2p0QREzftqTk2k3XtSqYzrtznGyofqm420mR",
+        "relevant_market_commission_rate": "3",
+        "second_level_category_id": 201531601,
+        "second_level_category_name": "new Scarf &Wrap",
+        "shop": {
+            "_id": "6104b12c4de1c3001205f495",
+            "shop_id": 621662,
+            "shop_url": "https://www.aliexpress.com/store/621662"
+        },
+        "app_sale_price": 2.99,
+        "app_sale_price_currency": "USD",
+        "original_price": 6.99,
+        "sale_price": 2.99,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104acf64de1c3001204c2b6",
+                "app_sale_price": 2.99,
+                "app_sale_price_currency": "USD",
+                "original_price": 6.99,
+                "sale_price": 2.99,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:52:54.277Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104acf64de1c3001204c2b7",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:52:54.277Z"
+            }
+        ],
+        "evaluate_rate": 95.2,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104acf64de1c3001204c2b8",
+                "evaluate_rate": 95.2,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:52:54.277Z"
+            }
+        ],
+        "discount_rate": 57,
+        "lastest_volume": 490,
+        "sales": [
+            {
+                "_id": "6104acf64de1c3001204c2b9",
+                "lastest_volume": 490,
+                "modificationDate": "2021-07-31T01:52:54.277Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-31T02:09:59.682Z",
+        "_id": "6104acc14de1c3001204b224",
+        "commission_rate": 7,
+        "first_level_category_id": "200000297",
+        "first_level_category_name": "Apparel Accessories",
+        "hot_product_commission_rate": 0,
+        "product_detail_url": "https://www.aliexpress.com/item/1005002103672590.html",
+        "product_id": 1005002103672590,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/He480967bee3e409b962f77fa0bb755cag.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/He480967bee3e409b962f77fa0bb755cag.jpg",
+                "https://ae04.alicdn.com/kf/H06015ae35ba24deda3230427b2334efeW.jpg",
+                "https://ae04.alicdn.com/kf/HTB1A8pmNVXXXXXmXVXXq6xXFXXXd.jpg",
+                "https://ae04.alicdn.com/kf/HTB1FERrNVXXXXaNXFXXq6xXFXXXq.jpg",
+                "https://ae04.alicdn.com/kf/H5e83ecf0dce147459e94ae16de7c7111D.jpg",
+                "https://ae04.alicdn.com/kf/HTB1aM1LOFXXXXa4XVXXq6xXFXXXr.jpg"
+            ]
+        },
+        "product_title": "2019 Hand made scarfs Women Tassel Scarf Wraps 200*27cm Big Crochet Flower scarves autumn winter Handmade Christmas Gift Scarves",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1VCyvN1ejcSU9tjyUnaJ0CyFTYsqEqaruL5BxCbV3RIE8qFojBT8Xxv2IDH8PjEAOC69LkokhdXpWaxzI6bbRbI2O8gQg0ARyzzL6k3dijhnca5V8pQRftcjXkRlFsiB1k6xkbD03y5O5aFxtY8LToHXPpxSBqEXbq7tYmtlvsQ0w1h8j8XsyqekYC3xwMzjbQUoTsnCUElshd9deWyCOEVAjZ7XGOBXTSSpUvdiPyxhr33Wr4aWScGd9Jlxm7Jw2DTx3qiZIS1pGXOgTg262fj84k9lFLeC96mbNrC8RObhqNBmWvWBMnnAyZaaXBWKcKO7LF1sXRWRNr54bGCd6qTP2dmHdmelWheX7i0OIy2t0pUNOm9VdZq2E4si1a2NrUv9BNlAufsIvhj1WLwBNp",
+        "relevant_market_commission_rate": "3",
+        "second_level_category_id": 200000399,
+        "second_level_category_name": "Scarves & Wraps",
+        "shop": {
+            "_id": "6104b0f74de1c3001205e405",
+            "shop_id": 121072,
+            "shop_url": "https://www.aliexpress.com/store/121072"
+        },
+        "app_sale_price": 29.58,
+        "app_sale_price_currency": "USD",
+        "original_price": 86.99,
+        "sale_price": 29.58,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104acc14de1c3001204b226",
+                "app_sale_price": 29.58,
+                "app_sale_price_currency": "USD",
+                "original_price": 86.99,
+                "sale_price": 29.58,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:52:01.030Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104acc14de1c3001204b227",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:52:01.030Z"
+            }
+        ],
+        "evaluate_rate": 80,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104acc14de1c3001204b228",
+                "evaluate_rate": 80,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:52:01.030Z"
+            }
+        ],
+        "discount_rate": 66,
+        "lastest_volume": 2,
+        "sales": [
+            {
+                "_id": "6104acc14de1c3001204b229",
+                "lastest_volume": 2,
+                "modificationDate": "2021-07-31T01:52:01.030Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-31T02:09:59.434Z",
+        "_id": "6104acc04de1c3001204b204",
+        "commission_rate": 7,
+        "first_level_category_id": "200000297",
+        "first_level_category_name": "Apparel Accessories",
+        "hot_product_commission_rate": 0,
+        "product_detail_url": "https://www.aliexpress.com/item/1005002075249070.html",
+        "product_id": 1005002075249070,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/HTB1fMnvXOnrK1RjSsziq6xptpXaE.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/HTB1fMnvXOnrK1RjSsziq6xptpXaE.jpg",
+                "https://ae04.alicdn.com/kf/HTB1wJfyXLfsK1RjSszgq6yXzpXaM.jpg",
+                "https://ae04.alicdn.com/kf/HTB1y0fyXLfsK1RjSszgq6yXzpXa9.jpg",
+                "https://ae04.alicdn.com/kf/HTB1PuYwXLvsK1Rjy0Fiq6zwtXXaq.jpg",
+                "https://ae04.alicdn.com/kf/HTB1yeYtXUvrK1RjSspcq6zzSXXaB.jpg",
+                "https://ae04.alicdn.com/kf/HTB1PD2vXPzuK1Rjy0Fpq6yEpFXaI.jpg"
+            ]
+        },
+        "product_title": "Genuine mink fur collar scarf  man or women garment accessory Black brown mink fur collar",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD167hRylhpwfngnGgbeirYkua3nwzL3xbnBZsKI46apdGzLfUfNB6OyEPYBGJKRhOEcRAMdUYXgiL2izQpeZmnB2FwifV7I2Sc2O42tTf0fGqZjn6zAeV5YFUJ7rhdA868SUjJdSeI0Fiqmg1j536Bw1GXwJuVNYoHgMmDgCfZNp5rA6eTEQWmPk7tU0EO2ZmSxD2MycsmfGmquZ9dbzkEydwkHhpMgBSbyclInW7T7x3d3hPwslJr011VA6y4771NO019hFysVLAC9uWB3wHeqCkqGt5wQo3yK5fjULpUcaGOEKEtdcTaOyhTBrE66tPMfT9SiRhzb944j5eO0bEhVL35qpGcOjca59t0w4BtVAWiwzYvZWMVrgSeRP9SyBu5mgUYdotqXGzQCgxZmw3Q3",
+        "relevant_market_commission_rate": "5",
+        "second_level_category_id": 200000399,
+        "second_level_category_name": "Scarves & Wraps",
+        "shop": {
+            "_id": "6104b0f74de1c3001205e3e9",
+            "shop_id": 4648041,
+            "shop_url": "https://www.aliexpress.com/store/4648041"
+        },
+        "app_sale_price": 19.99,
+        "app_sale_price_currency": "USD",
+        "original_price": 19.99,
+        "sale_price": 19.99,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104acc04de1c3001204b206",
+                "app_sale_price": 19.99,
+                "app_sale_price_currency": "USD",
+                "original_price": 19.99,
+                "sale_price": 19.99,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:52:00.774Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104acc04de1c3001204b207",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:52:00.774Z"
+            }
+        ],
+        "evaluate_rate": 100,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104acc04de1c3001204b208",
+                "evaluate_rate": 100,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:52:00.774Z"
+            }
+        ],
+        "discount_rate": 0,
+        "lastest_volume": 2,
+        "sales": [
+            {
+                "_id": "6104acc04de1c3001204b209",
+                "lastest_volume": 2,
+                "modificationDate": "2021-07-31T01:52:00.774Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-31T02:09:30.178Z",
+        "_id": "6104aca34de1c3001204a544",
+        "commission_rate": 7,
+        "first_level_category_id": "200000297",
+        "first_level_category_name": "Apparel Accessories",
+        "hot_product_commission_rate": 8,
+        "product_detail_url": "https://www.aliexpress.com/item/4000172622188.html",
+        "product_id": 4000172622188,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/Hed1b4c387a484dfa878e620959e5b474L.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/Hed1b4c387a484dfa878e620959e5b474L.jpg",
+                "https://ae04.alicdn.com/kf/Hfed4b47e37e144dd84ecc38ccf713bb69.jpg",
+                "https://ae04.alicdn.com/kf/H2fead1eb47d04be6af70381ba8ec6bd2Z.jpg",
+                "https://ae04.alicdn.com/kf/Hb7f9ebfe3a2a42898b9e9d178606c49al.jpg",
+                "https://ae04.alicdn.com/kf/Hbc208bcbbf0c4b3e83a125355bd023fd4.jpg"
+            ]
+        },
+        "product_title": "Baby Headbands Newborn hair Bows Kids Toddler headband Elastic Hair Band headwear children Girl Hair Accessories 5pcs/lot",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1Z0jicjlPfr8RzUFo3TFkcyJaoKZZx3eCcwyvexvK6dzG1OFam2mhAWCnasmqErV0HFegs4r8hpwUCT2IDkihp6ZAYRvaGaeNpebuUW4hGXG5CG2tPaV3iQUc7E3fZfg3MLmnHOrveHklYeJIzc62e4oOIZe9VRWiUzB1XQGo2V9zGuIxKLGyEFzLA0D0iFxLuqiLkjEqmD5DZId70JpoKTmniyD5V4u18LbY0dnXHoTOT29xFGqAiBhoFABFJY3BY4LNUmUMmsRdxYwYJ3YX9SKvrWCndePQ0bT5BonYQeE9iurUqLvlKtsg8gnqBvLP0mnGcGKkpVwkcZPVekBGAwlTnv445ROfFkUBkUruQPv8A79EshIjQdm83jqPek2Muj7JnKRPqWfWfLxgJowk3",
+        "relevant_market_commission_rate": "5",
+        "second_level_category_id": 201303301,
+        "second_level_category_name": "New Headwear",
+        "shop": {
+            "_id": "6104b0da4de1c3001205d735",
+            "shop_id": 5153060,
+            "shop_url": "https://www.aliexpress.com/store/5153060"
+        },
+        "app_sale_price": 0.01,
+        "app_sale_price_currency": "USD",
+        "original_price": 4.14,
+        "sale_price": 0.01,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104aca34de1c3001204a546",
+                "app_sale_price": 0.01,
+                "app_sale_price_currency": "USD",
+                "original_price": 4.14,
+                "sale_price": 0.01,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:51:31.439Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104aca34de1c3001204a547",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:51:31.439Z"
+            }
+        ],
+        "evaluate_rate": 97.6,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104aca34de1c3001204a548",
+                "evaluate_rate": 97.6,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:51:31.439Z"
+            }
+        ],
+        "discount_rate": 99,
+        "lastest_volume": 3963,
+        "sales": [
+            {
+                "_id": "6104aca34de1c3001204a549",
+                "lastest_volume": 3963,
+                "modificationDate": "2021-07-31T01:51:31.439Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-31T02:09:07.968Z",
+        "_id": "6104ac8d4de1c3001204a1f2",
+        "commission_rate": 9,
+        "first_level_category_id": "200000345",
+        "first_level_category_name": "Women's Clothing",
+        "hot_product_commission_rate": 0,
+        "product_detail_url": "https://www.aliexpress.com/item/1005001407728187.html",
+        "product_id": 1005001407728187,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/H7d6e388353c94e99afece8c1b504e72dc.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/H7d6e388353c94e99afece8c1b504e72dc.jpg",
+                "https://ae04.alicdn.com/kf/H8854a92b0f164d358a532550e723d5fa0.jpg",
+                "https://ae04.alicdn.com/kf/H6219bd95acfd4db3a7a9c306f8318f5eZ.jpg",
+                "https://ae04.alicdn.com/kf/H12ed7f6b78cb4ad38c27a58dda77c9062.jpg",
+                "https://ae04.alicdn.com/kf/H7ba5aa240670469bb57e561074324297H.jpg",
+                "https://ae04.alicdn.com/kf/H2b53f82e7f89414e939a02074b8a4132e.jpg"
+            ]
+        },
+        "product_title": "Two-Piece Set Off Shoulder Crop Casual Jumpsuits Rompers Women High Street Hot Sexy Backless Long Fashion Female Autumn Playsuit",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1UOJqiBqvg6VxsolSHEdcgBu4L1v5eSrv5bB05XIa4cu3WAJT4oLRcANNN6Y2hJmnFeo8ybkjkjrGQNMDU1rezY4PoKDuCQQXr3krqDO8ybu6hRIDvWFhOvtJpsjwZr6L06dU6MjrTZSWqPz6vO7byMc7M9sJYIHhqdDe7MS78l6M6c3QPZieD03ybsnX4jik7WTT9xFqZKrXYASOwWMTga1jAPxR0PVVhnrkuCricdRx91URMKjTVw2DQnhqhMUWNz2rLDFtETiO5NBZ4SVDzQgWxDarEBBL37r5IUImkll62gBvR5Q2Iyy6cZDPWV4e4sqCnIMyt7npMepGnw7eF4I1ZVZtuFsEqsEBauLgkESgCdYXDrPrfTGQIh8rvhnumZU0H89hrqRvcavFoiomP",
+        "relevant_market_commission_rate": "3",
+        "second_level_category_id": 201240602,
+        "second_level_category_name": "Jumpsuits&Rompers",
+        "shop": {
+            "_id": "6104b0c34de1c3001205d3e7",
+            "shop_id": 5786827,
+            "shop_url": "https://www.aliexpress.com/store/5786827"
+        },
+        "app_sale_price": 18,
+        "app_sale_price_currency": "USD",
+        "original_price": 30,
+        "sale_price": 18,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104ac8d4de1c3001204a1f4",
+                "app_sale_price": 18,
+                "app_sale_price_currency": "USD",
+                "original_price": 30,
+                "sale_price": 18,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:51:09.294Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104ac8d4de1c3001204a1f5",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:51:09.294Z"
+            }
+        ],
+        "evaluate_rate": 85.1,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104ac8d4de1c3001204a1f6",
+                "evaluate_rate": 85.1,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:51:09.294Z"
+            }
+        ],
+        "discount_rate": 40,
+        "lastest_volume": 265,
+        "sales": [
+            {
+                "_id": "6104ac8d4de1c3001204a1f7",
+                "lastest_volume": 265,
+                "modificationDate": "2021-07-31T01:51:09.294Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-31T02:07:58.074Z",
+        "_id": "6104ac474de1c30012048a1c",
+        "commission_rate": 9,
+        "first_level_category_id": "200000345",
+        "first_level_category_name": "Women's Clothing",
+        "hot_product_commission_rate": 0,
+        "product_detail_url": "https://www.aliexpress.com/item/4000082355411.html",
+        "product_id": 4000082355411,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/H99d18a5489fb447bac8144e18caee898r.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/H99d18a5489fb447bac8144e18caee898r.jpg",
+                "https://ae04.alicdn.com/kf/H194388d5f9094e1f8dc2c8b95894af3fQ.jpg",
+                "https://ae04.alicdn.com/kf/H0f7e4e8942374b3c815985d936b87cf3d.jpg",
+                "https://ae04.alicdn.com/kf/Hdf682c8e0e2a43c2941dd5804d14c281c.jpg",
+                "https://ae04.alicdn.com/kf/H7c9e3235cf4a441aa3aed93500372311b.jpg"
+            ]
+        },
+        "product_title": "Amii women's spring pine ribbon knitting wool coat new solid full sleeves belt vneck sweater 11940411",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1PrPXMSue7axFRHnotJnYo9AZOWIWFHXIlK2cRQvizryUi5fHBlPjLoCBsyWrb7PnqC0HAyqHC76iDDm5r2jQjiHVb3MQCOL64yRqdyYctMuxnhzaUO8f2GohC7zTQzoGUSip7Vqyc3Auwmd2EXn9w6KX2zfSATTVeXVR1Hzsh6TLyfcV6zPu93RbbacicOJon2C3GyW7QfCVtG3wHl1XqjP9Axv0VxEC3y4MWw2XKcwiTbb09da6e51nKG7yCe6b0LLPgcOpEEBistEsoSB49jiFGVl9MqxAYXutjlg34xRmWajr7M9S4ITKCQpOyGVQUws474MmlYkj88EQy3KqVeczMEnBWZywznE8ffRdmd8RYEAEOPbG9ezwNLrJ3eGYnbZptn7T0p5T4JxoV1cft",
+        "relevant_market_commission_rate": "3",
+        "second_level_category_id": 200000373,
+        "second_level_category_name": "Sweaters",
+        "shop": {
+            "_id": "6104b07e4de1c3001205bc05",
+            "shop_id": 3032003,
+            "shop_url": "https://www.aliexpress.com/store/3032003"
+        },
+        "app_sale_price": 29.65,
+        "app_sale_price_currency": "USD",
+        "original_price": 49.41,
+        "sale_price": 29.65,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104ac474de1c30012048a1e",
+                "app_sale_price": 29.65,
+                "app_sale_price_currency": "USD",
+                "original_price": 49.41,
+                "sale_price": 29.65,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:49:59.051Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104ac474de1c30012048a1f",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:49:59.051Z"
+            }
+        ],
+        "evaluate_rate": 0,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104ac474de1c30012048a20",
+                "evaluate_rate": 0,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:49:59.051Z"
+            }
+        ],
+        "discount_rate": 40,
+        "lastest_volume": 2,
+        "sales": [
+            {
+                "_id": "6104ac474de1c30012048a21",
+                "lastest_volume": 2,
+                "modificationDate": "2021-07-31T01:49:59.051Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-31T02:07:58.063Z",
+        "_id": "6104ac474de1c30012048a16",
+        "commission_rate": 9,
+        "first_level_category_id": "200000345",
+        "first_level_category_name": "Women's Clothing",
+        "hot_product_commission_rate": 0,
+        "product_detail_url": "https://www.aliexpress.com/item/4001175415691.html",
+        "product_id": 4001175415691,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/Hd0d812726c224ec2bd657939f0fe5294L.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/Hd0d812726c224ec2bd657939f0fe5294L.jpg",
+                "https://ae04.alicdn.com/kf/H39bdac3126514bd985605dab83524e95B.jpg",
+                "https://ae04.alicdn.com/kf/Hc17437e4899b4a21adb97097a7d54be0X.jpg",
+                "https://ae04.alicdn.com/kf/H5ebdc4477c6d415ba7a490c171360d79a.jpg",
+                "https://ae04.alicdn.com/kf/Hc8dbfb80f5f943398434e728776fc7a6P.jpg"
+            ]
+        },
+        "product_title": "Amii Western fashion knitwear women's new semi - turtleneck bottom unlined upper garment slim fit sweater tops 11920919",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1OOXWmcNgNeRZM6kp5TzldpAupa6VGHRgbcQelbm1S3rmn5v1NTxe1Y45Y7mXf6R9DJqcXsczDxUBkSXPOYGS3mtAoLTgrPFitlKHnCMxZGfaVFXaq44v6f3FW3yu7GKZJ79n3BWtHjI9Eu6ISc7HNMm973Ihe3e5uLl7yp9JUbOCFlE5WIBJCVcLEA4FwVs8Xn5zdv9opsY03evrvohdvbPZMkiun6MJgdMx5QqPpgYz5z4xRZmgGjCXGdFxTRzSORAcVGu9bkH8vHk9TsTF563qaZGSM6ADRcHIuWoRIIVDyJG9yZ9I4FcR5FdIrORlv5WftcpExToPJPvZj8Kjw5efNAtYKvM3L9UFPnWXAmqAfUFYtU8xtaFQGNxDxB5SSy8N0vJcfD4rWiU5uAePD",
+        "relevant_market_commission_rate": "3",
+        "second_level_category_id": 200000373,
+        "second_level_category_name": "Sweaters",
+        "shop": {
+            "_id": "6104b07e4de1c3001205bc03",
+            "shop_id": 3032003,
+            "shop_url": "https://www.aliexpress.com/store/3032003"
+        },
+        "app_sale_price": 23.13,
+        "app_sale_price_currency": "USD",
+        "original_price": 46.27,
+        "sale_price": 23.13,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104ac474de1c30012048a18",
+                "app_sale_price": 23.13,
+                "app_sale_price_currency": "USD",
+                "original_price": 46.27,
+                "sale_price": 23.13,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:49:59.036Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104ac474de1c30012048a19",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:49:59.036Z"
+            }
+        ],
+        "evaluate_rate": 100,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104ac474de1c30012048a1a",
+                "evaluate_rate": 100,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:49:59.036Z"
+            }
+        ],
+        "discount_rate": 50,
+        "lastest_volume": 2,
+        "sales": [
+            {
+                "_id": "6104ac474de1c30012048a1b",
+                "lastest_volume": 2,
+                "modificationDate": "2021-07-31T01:49:59.036Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-31T02:04:37.031Z",
+        "_id": "6104ab804de1c30012044cf8",
+        "commission_rate": 7,
+        "first_level_category_id": "1420",
+        "first_level_category_name": "Tools",
+        "hot_product_commission_rate": 0,
+        "product_detail_url": "https://www.aliexpress.com/item/32917312975.html",
+        "product_id": 32917312975,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/H8b6ba669077840bbabc9150ae68754efc.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/H8b6ba669077840bbabc9150ae68754efc.jpg",
+                "https://ae04.alicdn.com/kf/HTB1WaW2j_Zmx1VjSZFGq6yx2XXam.jpg",
+                "https://ae04.alicdn.com/kf/HTB12WvqRbvpK1RjSZPiq6zmwXXad.jpg",
+                "https://ae04.alicdn.com/kf/HTB1OEDtRmzqK1RjSZFpq6ykSXXad.jpg",
+                "https://ae04.alicdn.com/kf/HTB10AjrRXYqK1RjSZLeq6zXppXaR.jpg",
+                "https://ae04.alicdn.com/kf/HTB1mnzqRhTpK1RjSZFKq6y2wXXaB.jpg"
+            ]
+        },
+        "product_title": "Free Shipping 10Pcs 50mm S2 Titanize Pozidrive Bits Hex Shanked Anti Slip Screwdriver Bits Magnetic Single Head PZ1 / PZ2 / PZ3",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1fcW1E8xev4e0Lr2KrfJ6NQxYvcNIB9CqC6huwGlkcg8Bo2YCxIu9hJXiuJyXKyLOG2c1nOapK8Z6A9lsuUYVA6voUeB6ERpD9aUrYzBsEfewMOJCRVHHTir8MXDocRXBX2V8KbGkIcFPSS2LRRmB5Hib4LEpHsoDLTWv7TIDkZTW9l4kn8Ps2L0uEOcs1vVyLDDIWC5VhQWEu7M4Sy47FIPJs2hhf9D7JUNUe6MLgVxgfLvY47B6wCebRuuxBKHvvU2xDsLnd8SMZOAiCB60smY8iYHzlD2tjWGQ9uCTh7yiL6KrEPK0P4QqlecCysvfrJmqRLgJ1xiwiti1bXyzVXOo023aRqo20qlYqBkqdUsbYi60QwHRlagvzhZRUH711SkaJKfWjTl6Ir8sW2wsF",
+        "relevant_market_commission_rate": "8",
+        "second_level_category_id": 142003,
+        "second_level_category_name": "Hand Tools",
+        "shop": {
+            "_id": "6104afb54de1c30012057ee9",
+            "shop_id": 4046094,
+            "shop_url": "https://www.aliexpress.com/store/4046094"
+        },
+        "app_sale_price": 1.72,
+        "app_sale_price_currency": "USD",
+        "original_price": 5.25,
+        "sale_price": 1.72,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104ab804de1c30012044cfa",
+                "app_sale_price": 1.72,
+                "app_sale_price_currency": "USD",
+                "original_price": 5.25,
+                "sale_price": 1.72,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:46:40.090Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104ab804de1c30012044cfb",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:46:40.090Z"
+            }
+        ],
+        "evaluate_rate": 96.5,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104ab804de1c30012044cfc",
+                "evaluate_rate": 96.5,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:46:40.090Z"
+            }
+        ],
+        "discount_rate": 67,
+        "lastest_volume": 1063,
+        "sales": [
+            {
+                "_id": "6104ab804de1c30012044cfd",
+                "lastest_volume": 1063,
+                "modificationDate": "2021-07-31T01:46:40.090Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-31T02:04:36.931Z",
+        "_id": "6104ab7f4de1c30012044ce8",
+        "commission_rate": 7,
+        "first_level_category_id": "1420",
+        "first_level_category_name": "Tools",
+        "hot_product_commission_rate": 8,
+        "product_detail_url": "https://www.aliexpress.com/item/4000793642622.html",
+        "product_id": 4000793642622,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/H31f113e016784eb3939aae05081a907as.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/H31f113e016784eb3939aae05081a907as.jpg",
+                "https://ae04.alicdn.com/kf/H29ae0c09e4cd4cd4863128e84337bdb7k.jpg",
+                "https://ae04.alicdn.com/kf/H72410fe261e44b7caecd1b564b4546e2T.jpg",
+                "https://ae04.alicdn.com/kf/H4d2ee45b79a94f3c830e91849a592d91S.jpg",
+                "https://ae04.alicdn.com/kf/Hd2114c76f97b45bd90b7325451f3d0e9C.jpg",
+                "https://ae04.alicdn.com/kf/Hcf1696af357c44ba8524d739b4cf1d97v.jpg"
+            ]
+        },
+        "product_title": "11pcs Set Carbon Steel Carving Metal Scalpel Blades Number 11 23 Medical Cutting Handel Scalpel Knife DIY Tool Kits Non Slip",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1AuvRCiSp48Vmt4YkXJJH5UBPNYHLfefzxqtZA9Js2WlrA1XaN5gwXF7A1S6kj9vbyyxy9i3w31jQ9Z9LJjoGbZSdWTw4IkmdaGUGZdCGTeNeMNnfYvUXLyY65Abd17mzkp6ZGZID66sA7wAHr5DbBrDUxrrA0zFBVGIWAZow6cRWs9dL80zGA2xYhIZxtaOVL5PdB0MBdjNIBHC8vav6BT3DpjDOs0LJhsfk64qaImpVJfW9zuDsYz0sLA9CmcKsK90R1NgxFoV7KkdSe71OZPdqLRDQ3d0BADagvFPJvcL7MiPyhFHDANT1sz0AeQnZVEHwtTR2UubkYlZazdJKVOdEQPa4vXifmOQ9Lt6v0HB8ZVx2GEc4MX1ES3iUa4bgKKjESatCMILrSDZMIbiBp",
+        "relevant_market_commission_rate": "5",
+        "second_level_category_id": 142003,
+        "second_level_category_name": "Hand Tools",
+        "shop": {
+            "_id": "6104afb44de1c30012057edd",
+            "shop_id": 5578032,
+            "shop_url": "https://www.aliexpress.com/store/5578032"
+        },
+        "app_sale_price": 0.01,
+        "app_sale_price_currency": "USD",
+        "original_price": 2.59,
+        "sale_price": 0.01,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104ab7f4de1c30012044cea",
+                "app_sale_price": 0.01,
+                "app_sale_price_currency": "USD",
+                "original_price": 2.59,
+                "sale_price": 0.01,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:46:39.985Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104ab7f4de1c30012044ceb",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:46:39.985Z"
+            }
+        ],
+        "evaluate_rate": 95.6,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104ab7f4de1c30012044cec",
+                "evaluate_rate": 95.6,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:46:39.985Z"
+            }
+        ],
+        "discount_rate": 99,
+        "lastest_volume": 1059,
+        "sales": [
+            {
+                "_id": "6104ab7f4de1c30012044ced",
+                "lastest_volume": 1059,
+                "modificationDate": "2021-07-31T01:46:39.985Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-31T02:03:40.342Z",
+        "_id": "6104ab454de1c30012043a6c",
+        "commission_rate": 7,
+        "first_level_category_id": "1420",
+        "first_level_category_name": "Tools",
+        "hot_product_commission_rate": 8,
+        "product_detail_url": "https://www.aliexpress.com/item/32911823209.html",
+        "product_id": 32911823209,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/H3b916bc8490a4a4db6d62b542b124b114.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/H3b916bc8490a4a4db6d62b542b124b114.jpg",
+                "https://ae04.alicdn.com/kf/He271b6d5b9c647bb95b98ad9535ac8b8I.jpg",
+                "https://ae04.alicdn.com/kf/H9aa5ef1c64314571b5b3c4109ad748d7l.jpg",
+                "https://ae04.alicdn.com/kf/H09a5b9aa47d04cb4a91e3c47d972b7cas.jpg",
+                "https://ae04.alicdn.com/kf/H44f6e7944f4845db90cf84fbb9685721G.jpg",
+                "https://ae04.alicdn.com/kf/H53b041d27d214a27ab60d76b700b7683m.jpg"
+            ]
+        },
+        "product_title": "12V 16V 21V 25V Plus Double Speed Electric Drill Cordless Hand Drill Mini Electric Screwdriver Rechargable Lithium Battery Drill",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1fY0nZ4S7buQTQfEjr9ddQkwIg0pIVDjtsrdQwx7NcqyzebhasjSuyTRb8OsclFWwRQfRfnKBFmVSmGHzffombPFPugPiTMaUyDNyJlXpnngkDQH7U8F6wa1cd2r2G3IflnM1LLzJaewQqQbro4hjYatLD7tvogv9n6wwBYyK0OBFKNYfQNmAL7X1rSySPF9ih9RJG26bLHodDqS19gr6tZ0EnxUawyWEJuraVlSrBgfig5vGhCuQKduBhFgm4HBEaIg59VFPArUaXSrW6dntDjbSGRTfUa1JU40PP0QJaK7JM2Rbs7s36o72BWnJ5SdCNSjtSHWQvoqmuP0mwrUPiJw8AmV6GYW3eWYKukky5vZfeLIvmIA9HjRiNvtVwxrELVD3oLxtj2XYHJ1iyUGpd",
+        "relevant_market_commission_rate": "3.5",
+        "second_level_category_id": 1417,
+        "second_level_category_name": "Power Tools",
+        "shop": {
+            "_id": "6104af7c4de1c30012056c65",
+            "shop_id": 3568002,
+            "shop_url": "https://www.aliexpress.com/store/3568002"
+        },
+        "app_sale_price": 30.01,
+        "app_sale_price_currency": "USD",
+        "original_price": 68.2,
+        "sale_price": 30.01,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104ab454de1c30012043a6e",
+                "app_sale_price": 30.01,
+                "app_sale_price_currency": "USD",
+                "original_price": 68.2,
+                "sale_price": 30.01,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:45:41.873Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104ab454de1c30012043a6f",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:45:41.873Z"
+            }
+        ],
+        "evaluate_rate": 96.5,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104ab454de1c30012043a70",
+                "evaluate_rate": 96.5,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:45:41.873Z"
+            }
+        ],
+        "discount_rate": 56,
+        "lastest_volume": 704,
+        "sales": [
+            {
+                "_id": "6104ab454de1c30012043a71",
+                "lastest_volume": 704,
+                "modificationDate": "2021-07-31T01:45:41.873Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-31T02:03:15.567Z",
+        "_id": "6104ab2c4de1c300120435ae",
+        "commission_rate": 7,
+        "first_level_category_id": "509",
+        "first_level_category_name": "Phones & Telecommunications",
+        "hot_product_commission_rate": 0,
+        "product_detail_url": "https://www.aliexpress.com/item/1005002423972942.html",
+        "product_id": 1005002423972942,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/Hdebcd9f3c05b404ea7dfe562ce60717dH.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/Hdebcd9f3c05b404ea7dfe562ce60717dH.jpg",
+                "https://ae04.alicdn.com/kf/H1610146be6074e729d100ab154322591f.jpg",
+                "https://ae04.alicdn.com/kf/H655324c39a474e788ae36ba56958b3db2.jpg",
+                "https://ae04.alicdn.com/kf/H03998cea2d6d40f1a8fdd263f1c5756c4.jpg",
+                "https://ae04.alicdn.com/kf/H196336d59f51490ab19c6dc0c39fc015s.jpg",
+                "https://ae04.alicdn.com/kf/H96eb1851212a4586bdd8841a30b198e9Q.jpg"
+            ]
+        },
+        "product_title": "SIM Card 4-Piece Suit Card Holder For Phone Card Mini/Medium/Standard  Card Pin Card Holder Adapter SIM Card Standard Adapter",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1UveAGhFbHG3Yp4u7VMfhcgQVovtLq8SJRpgl98yHAs0qXMlg0WpJXe1qVuKH1FVnAEXjws7KDkRRshQD4I3rBSpfKzRVmnyPKbmAucil7VVHKpTLKMxEj1lKTbCif0o3wVeSDo1e3HL3ovgpb4mx7HHHuUuV0Ngd3CB5h6zkj2J6ZCcBeJFWJEVVIRvhPVPQZHJUqFjXss5JOcdckihWhNljXWlfrVjziDvAT9cSUcAfWIgv5y72yaIEYhZcoXZH0aUtdy3SvCJt35kMOgvJNvM9IJcniCp6kdSLCQpLHe0ImV5HclqHsHG2Z7yl8wluLWmgxMB3HGkmUk569fAocKWBq2fVuzTG339ZEhIu6jvzDe6nqDLZinvfiRaFsf5GvX2zOJzcMjFxIzNIMs4gT",
+        "relevant_market_commission_rate": "3",
+        "second_level_category_id": 200001598,
+        "second_level_category_name": "Sim Cards & Accessories",
+        "shop": {
+            "_id": "6104af634de1c300120567ab",
+            "shop_id": 911224185,
+            "shop_url": "https://www.aliexpress.com/store/911224185"
+        },
+        "app_sale_price": 0.41,
+        "app_sale_price_currency": "USD",
+        "original_price": 0.69,
+        "sale_price": 0.41,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104ab2c4de1c300120435b0",
+                "app_sale_price": 0.41,
+                "app_sale_price_currency": "USD",
+                "original_price": 0.69,
+                "sale_price": 0.41,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:45:16.661Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104ab2c4de1c300120435b1",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:45:16.661Z"
+            }
+        ],
+        "evaluate_rate": 97.3,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104ab2c4de1c300120435b2",
+                "evaluate_rate": 97.3,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:45:16.661Z"
+            }
+        ],
+        "discount_rate": 41,
+        "lastest_volume": 41,
+        "sales": [
+            {
+                "_id": "6104ab2c4de1c300120435b3",
+                "lastest_volume": 41,
+                "modificationDate": "2021-07-31T01:45:16.661Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-31T02:03:11.607Z",
+        "_id": "6104ab284de1c300120433e8",
+        "commission_rate": 9,
+        "first_level_category_id": "509",
+        "first_level_category_name": "Phones & Telecommunications",
+        "hot_product_commission_rate": 4,
+        "product_detail_url": "https://www.aliexpress.com/item/1005002399426181.html",
+        "product_id": 1005002399426181,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/Hed8615f0f1f84839b1fc5ca40c45f962l.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/Hed8615f0f1f84839b1fc5ca40c45f962l.jpg",
+                "https://ae04.alicdn.com/kf/H4bce39f96f3d4728a3ab4e743622c2fd5.jpg",
+                "https://ae04.alicdn.com/kf/H75fa508095254fb1965d215f1f63e9fd0.jpg",
+                "https://ae04.alicdn.com/kf/H2f2d68fe28a34dca99a514bba33f37ecz.jpg",
+                "https://ae04.alicdn.com/kf/H55ebd58b999e45f88ec1f290707fb9d2W.jpg",
+                "https://ae04.alicdn.com/kf/Hb4c65f5f32044feaaf115e37795a5ff0R.jpg"
+            ]
+        },
+        "product_title": "New Upgrade Camera Protector Liquid Silicone Phone Case For Samsung Galaxy A52 A72 A32 4G 5G Original Back Cover Cases",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1gnrfVn61moBu0p070Zm9QMY9CtCnQyi0PmvV8Y0F0a1scPN0fuJJJrfiJlquskXQla2ARcBKF2fNOh2gsUiBDQnQk2mVz6GMbi3Gedo0RPBK1CBNphZMjs9x5gwUPKvDOFYnS4q8NDsZQ4bUoJbsIOHXK0TEEfE5b2hMoeJGZNbadDpfbRG31IfPU7tKw2DA1aQBFok4sRIIGBnQzrrAHz0ThVbUkgvKquFgH1peOBDwyffsyrBESliSWVhwMgadbVxro8AvaNeB5D7adHi8ZOcsnjGZDypGzWS10GchltAG0zOzo1I39uHQZQhmF7bMGUCWj3CNKKudpAj7kNbxidKnc1zz1tVvVVK7h6V4QsCSqpD3WJFmFjVaYNSTh4pTzjnZk7IHG98ITmZanAS4j",
+        "relevant_market_commission_rate": "3",
+        "second_level_category_id": 100001205,
+        "second_level_category_name": "Mobile Phone Accessories",
+        "shop": {
+            "_id": "6104af5f4de1c300120565df",
+            "shop_id": 911766048,
+            "shop_url": "https://www.aliexpress.com/store/911766048"
+        },
+        "app_sale_price": 0.01,
+        "app_sale_price_currency": "USD",
+        "original_price": 3,
+        "sale_price": 0.01,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104ab284de1c300120433ea",
+                "app_sale_price": 0.01,
+                "app_sale_price_currency": "USD",
+                "original_price": 3,
+                "sale_price": 0.01,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:45:12.735Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104ab284de1c300120433eb",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:45:12.735Z"
+            }
+        ],
+        "evaluate_rate": 96.3,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104ab284de1c300120433ec",
+                "evaluate_rate": 96.3,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:45:12.735Z"
+            }
+        ],
+        "discount_rate": 99,
+        "lastest_volume": 8700,
+        "sales": [
+            {
+                "_id": "6104ab284de1c300120433ed",
+                "lastest_volume": 8699,
+                "modificationDate": "2021-07-31T01:45:12.735Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-31T02:02:18.088Z",
+        "_id": "6104aaf14de1c3001204224e",
+        "commission_rate": 7,
+        "first_level_category_id": "66",
+        "first_level_category_name": "Beauty & Health",
+        "hot_product_commission_rate": 8,
+        "product_detail_url": "https://www.aliexpress.com/item/4000927869013.html",
+        "product_id": 4000927869013,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/H67aa720f3d4540ef8b7dd4156b319581B.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/H67aa720f3d4540ef8b7dd4156b319581B.jpg",
+                "https://ae04.alicdn.com/kf/Hefdbf057ce7b4e96ac3de1ae8b748819m.jpg",
+                "https://ae04.alicdn.com/kf/H71b60c75691f4da29f101dd7a39747fem.jpg",
+                "https://ae04.alicdn.com/kf/Ha187ef11e3cd4c5596a3a2ae637fcd45W.jpg",
+                "https://ae04.alicdn.com/kf/H2db68b525ee9440391a9bd0f0b7045d9a.jpg",
+                "https://ae04.alicdn.com/kf/H002d700a637b45a6b4d8f092b74df42fj.jpg"
+            ]
+        },
+        "product_title": "Clou Beaute 64 Colors Gel Nail Polish White Gel UV Nail Matte Base Top Gel Polish Soak Off UV Varnish Gel Paint 15ml Nail Art",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1O1sayZgssdJ1Lg6phQeiZd4ze3078QaCRCYWdZEHFJXCu1teZU0K4YaFMKko7afCC7fYPsrm3DlqjgAxodDpCFVbwk6fahcLwgn89zaaVeVnuC6Kq1sjTHV6TWqHsmyYKEHzppRvoUkrtjORuNSmTmCygRBTKKNE0vBnfoagJJH4revkQEnIS0mpOtEtZxsuUBNQKNEHW5Y896QJ3V95s3vMdaZ3UdKCe9rGxP8JwGF27upAsFHosyZO7cJ4cxnDCC0kGHoloZjHBadyGa5vbVhUZTqBdYNVdkzsiiDPFBP2RHcOhjCR7z9ZeXZhx70V4Cljy7QBLekFtXRdtxe0hiB0Nf5lFFxME3S4S6VBGMCyjjGl3SMxRFjhQv4zoblywgPB6XsAjT9N8Xb1eouAn",
+        "relevant_market_commission_rate": "3",
+        "second_level_category_id": 200001147,
+        "second_level_category_name": "Nail Art & Tools",
+        "shop": {
+            "_id": "6104af2a4de1c3001205544f",
+            "shop_id": 5616312,
+            "shop_url": "https://www.aliexpress.com/store/5616312"
+        },
+        "app_sale_price": 0.01,
+        "app_sale_price_currency": "USD",
+        "original_price": 2.3,
+        "sale_price": 0.01,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104aaf14de1c30012042250",
+                "app_sale_price": 0.01,
+                "app_sale_price_currency": "USD",
+                "original_price": 2.3,
+                "sale_price": 0.01,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:44:17.959Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104aaf14de1c30012042251",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:44:17.959Z"
+            }
+        ],
+        "evaluate_rate": 95.6,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104aaf14de1c30012042252",
+                "evaluate_rate": 95.6,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:44:17.959Z"
+            }
+        ],
+        "discount_rate": 99,
+        "lastest_volume": 15260,
+        "sales": [
+            {
+                "_id": "6104aaf14de1c30012042253",
+                "lastest_volume": 15260,
+                "modificationDate": "2021-07-31T01:44:17.959Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-31T02:01:43.120Z",
+        "_id": "6104aacf4de1c300120419ee",
+        "commission_rate": 7,
+        "first_level_category_id": "30",
+        "first_level_category_name": "Security & Protection",
+        "hot_product_commission_rate": 10.5,
+        "product_detail_url": "https://www.aliexpress.com/item/1005002314591173.html",
+        "product_id": 1005002314591173,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/He1aefe2fffce4ac6bceff3d2cfaa784aB.png",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/He1aefe2fffce4ac6bceff3d2cfaa784aB.png",
+                "https://ae04.alicdn.com/kf/Hc61f9645efb043aeb542c49afe3a1f5fz.jpg",
+                "https://ae04.alicdn.com/kf/H8007cb6993e6465881fd8bd44c2e3bc7V.jpg",
+                "https://ae04.alicdn.com/kf/Hca202f1523f244649514e5e1722ed7322.jpg",
+                "https://ae04.alicdn.com/kf/H89f5b2c28c544d9b8595f8c496fb37a22.jpg",
+                "https://ae04.alicdn.com/kf/H9a32c1a9c0a34d36916ec4041de80e7dU.jpg"
+            ]
+        },
+        "product_title": "Staniot E800 Tuya Wireless Wifi GSM Smart Home Burglar Security Alarm System Kits Support IOS and Android APP Remote Control",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD16lU0a6ZgFt5xZdqyB1YgKGWahzwkZksUUcxm5xOajPrYPKNs70MqvnQ9ar7iW0TsQqwPDUc7KWe6rDX3M1jIAEp5RDoSrRi6UBS14TOLBtKoXIOAZk6wBARgSvBRGwbOcVo9DYvTVxvjxkdHQpOuPfOta1EbvnCZJYiypEVnptwHU6tAfO1zXyYWXshUXxuH5WU75Cwg7rDUe3esQ7P1RUZgwzdlRMsFcaJ73SLoA20RzQ1fiRLdlHO8yonis8miiXdxGUotVfyTrNX9cblTc2fvFNw2y6uZqTOvgfUBnCMaxS9HxPYncOd6OEmLqHFVCRuPKLtEyjbok8ShKLcGjzUVg1xsdCJTCdhMxtehanL3k4c80PJn6Aq8lqT553vElizH5mSZN8x3lh0EmH4AX",
+        "relevant_market_commission_rate": "7",
+        "second_level_category_id": 200004311,
+        "second_level_category_name": "Security Alarm",
+        "shop": {
+            "_id": "6104af074de1c30012054bef",
+            "shop_id": 911750257,
+            "shop_url": "https://www.aliexpress.com/store/911750257"
+        },
+        "app_sale_price": 66.95,
+        "app_sale_price_currency": "USD",
+        "original_price": 107.99,
+        "sale_price": 66.95,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104aacf4de1c300120419f0",
+                "app_sale_price": 66.95,
+                "app_sale_price_currency": "USD",
+                "original_price": 107.99,
+                "sale_price": 66.95,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:43:43.802Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104aacf4de1c300120419f1",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:43:43.802Z"
+            }
+        ],
+        "evaluate_rate": 99.4,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104aacf4de1c300120419f2",
+                "evaluate_rate": 99.4,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:43:43.802Z"
+            }
+        ],
+        "discount_rate": 38,
+        "lastest_volume": 156,
+        "sales": [
+            {
+                "_id": "6104aacf4de1c300120419f3",
+                "lastest_volume": 156,
+                "modificationDate": "2021-07-31T01:43:43.802Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-31T02:00:35.558Z",
+        "_id": "6104aa8b4de1c30012040344",
+        "commission_rate": 7,
+        "first_level_category_id": "26",
+        "first_level_category_name": "Toys & Hobbies",
+        "hot_product_commission_rate": 0,
+        "product_detail_url": "https://www.aliexpress.com/item/32870744786.html",
+        "product_id": 32870744786,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/HTB1obNYq4WYBuNjy1zkq6xGGpXa0.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/HTB1obNYq4WYBuNjy1zkq6xGGpXa0.jpg",
+                "https://ae04.alicdn.com/kf/HTB106wWqKuSBuNjSsplq6ze8pXaF.jpg",
+                "https://ae04.alicdn.com/kf/HTB10Kdcq1SSBuNjy0Flq6zBpVXae.jpg",
+                "https://ae04.alicdn.com/kf/HTB1isRrq1OSBuNjy0Fdq6zDnVXax.jpg",
+                "https://ae04.alicdn.com/kf/HTB1ZjAsiDXYBeNkHFrdq6AiuVXa5.jpg",
+                "https://ae04.alicdn.com/kf/HTB1f4DUixuTBuNkHFNRq6A9qpXae.jpg"
+            ]
+        },
+        "product_title": "New Soft Building Blocks kids DIY Pop squigz sucker Funny Silicone block Model Construction Toys Creative Gifts For Children Boy",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1OShnjsKsajVfrVWOnnQQ7xZ3FZsU2qHEmB86I5jL4Joj0P1vt7pkekhz7znRRyWfSfvKHiFbonSsepRrLSrOoJwWO6ZQE2hMN9PNMBiR7BrOR6pNtuX8Xvxp0e68DODpNjQFGM0zHPKcaCXy8yu7JXxn4gQn8kyAnRr33rwMQvghjaqhDGATZsj9E8cFQVzaLW8FPnUE84eqtCsah28bkJehug8CBcA3DCUg298gBTN6zaTjLINhqmenAjgkNvRcJx5OB642dh9CGZNmovZZOe0JVbNETr0LafCXjI1yiwUyhy43vZPwVQSSjKr1rl9fitkRCllQrFGdQq49KdZFW28jLw3DFc029WK8c2HBLvxNZT1hrRizKzEbh8Yh5j2fEz9hTx7MbIcTP58dQ5rL5",
+        "relevant_market_commission_rate": "3",
+        "second_level_category_id": 200001383,
+        "second_level_category_name": "Building & Construction Toys",
+        "shop": {
+            "_id": "6104aec34de1c30012053549",
+            "shop_id": 1848713,
+            "shop_url": "https://www.aliexpress.com/store/1848713"
+        },
+        "app_sale_price": 9.06,
+        "app_sale_price_currency": "USD",
+        "original_price": 15.62,
+        "sale_price": 9.06,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104aa8b4de1c30012040346",
+                "app_sale_price": 9.06,
+                "app_sale_price_currency": "USD",
+                "original_price": 15.62,
+                "sale_price": 9.06,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:42:35.603Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104aa8b4de1c30012040347",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:42:35.603Z"
+            }
+        ],
+        "evaluate_rate": 98.7,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104aa8b4de1c30012040348",
+                "evaluate_rate": 98.7,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:42:35.603Z"
+            }
+        ],
+        "discount_rate": 42,
+        "lastest_volume": 1433,
+        "sales": [
+            {
+                "_id": "6104aa8b4de1c30012040349",
+                "lastest_volume": 1433,
+                "modificationDate": "2021-07-31T01:42:35.603Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-31T02:00:24.378Z",
+        "_id": "6104aa804de1c3001203fe7e",
+        "commission_rate": 7,
+        "first_level_category_id": "26",
+        "first_level_category_name": "Toys & Hobbies",
+        "hot_product_commission_rate": 0,
+        "product_detail_url": "https://www.aliexpress.com/item/4001349757338.html",
+        "product_id": 4001349757338,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/H76896f699cd4404dbf21d3cb5ae129d8x.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/H76896f699cd4404dbf21d3cb5ae129d8x.jpg",
+                "https://ae04.alicdn.com/kf/H0a765156539445d0a4a2fab9c1314bab5.jpg",
+                "https://ae04.alicdn.com/kf/H1326747b7da04e3a98c03bdc04659e39s.jpg",
+                "https://ae04.alicdn.com/kf/Heef87cd48e694144ab2b7201960db230l.jpg",
+                "https://ae04.alicdn.com/kf/Hfb6777d98f1741328e545e789869b1f3L.jpg",
+                "https://ae04.alicdn.com/kf/Hb5a80d8b18ec4a70a64360334efc1bdav.jpg"
+            ]
+        },
+        "product_title": "Hand Launch 35cm Flying Throw Airplane Outdoor Sports Toys for Children Glider Aircraft Model Foam Gliding Boys Fun Game Figure",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1fmEehhyhgzz7GxqZLc6Ly76ggCCHuGcFEDrCKv6PSYbh97Eu9JgsmtwDtxXDZ5UyKA2JKxRLUjokjJ4bt6JlZ3FH5jq4JsixWXXLutx3JkH8wxNPzpuemEfrNa45EW1146zlFlZ0EwL44PmgfO5hN9hjKRomu95KVxzHAuqG6OC5smcOhds055BdD6735zKl0tzirvcmJiXchEjvRtiELm5WZXs0Hx6idyVNWeivbgZ4RpxGMzPrEyA7NULKrEkxZCgfKsOwBIlfHBQFPaQmJhk7NMYODC5uORryHw9dCwAnrSxhuMjZNR1w9r2bu5LK2AI0ZMkOGIwp8WgtAuDtPIStwGiNSuWnKHTjvpgNJJldTIhU90ROaP3JS1yIw040ZYtphheJFGV7u3VzWjcN5",
+        "relevant_market_commission_rate": "3",
+        "second_level_category_id": 200001385,
+        "second_level_category_name": "Remote Control Toys",
+        "shop": {
+            "_id": "6104aeb84de1c30012053087",
+            "shop_id": 910316386,
+            "shop_url": "https://www.aliexpress.com/store/910316386"
+        },
+        "app_sale_price": 0.01,
+        "app_sale_price_currency": "USD",
+        "original_price": 3.67,
+        "sale_price": 0.01,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104aa804de1c3001203fe80",
+                "app_sale_price": 0.01,
+                "app_sale_price_currency": "USD",
+                "original_price": 3.67,
+                "sale_price": 0.01,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:42:24.586Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104aa804de1c3001203fe81",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:42:24.586Z"
+            }
+        ],
+        "evaluate_rate": 95.9,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104aa804de1c3001203fe82",
+                "evaluate_rate": 95.9,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:42:24.586Z"
+            }
+        ],
+        "discount_rate": 99,
+        "lastest_volume": 667,
+        "sales": [
+            {
+                "_id": "6104aa804de1c3001203fe83",
+                "lastest_volume": 667,
+                "modificationDate": "2021-07-31T01:42:24.586Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-31T02:00:24.330Z",
+        "_id": "6104aa804de1c3001203fe74",
+        "commission_rate": 7,
+        "first_level_category_id": "26",
+        "first_level_category_name": "Toys & Hobbies",
+        "hot_product_commission_rate": 0,
+        "product_detail_url": "https://www.aliexpress.com/item/1005002561227284.html",
+        "product_id": 1005002561227284,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/H87ed04985fcc4718b125acbf7772ca75a.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/H87ed04985fcc4718b125acbf7772ca75a.jpg",
+                "https://ae04.alicdn.com/kf/H6f75cac6066042ce857331c81c381c89S.jpg",
+                "https://ae04.alicdn.com/kf/H75242837c1f249688d4b265169947e49J.jpg",
+                "https://ae04.alicdn.com/kf/H01917073a0814769acc18e090508dba20.jpg",
+                "https://ae04.alicdn.com/kf/Hc5ab0e9316b24ed8a5a5fedc2b179461q.jpg",
+                "https://ae04.alicdn.com/kf/H57cca3d9b9ff4aefb2633bd3bd3d74afY.jpg"
+            ]
+        },
+        "product_title": "FEMA E88 Pro Mini Drone with Camera 4k HD wide angle 1080P WiFi Fpv Drone Height Hold Rc Quadcopter Dron Toy Pk E525 E58",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD16nC6vxsLEtzVY2pnzhTySPNcJORy3g9h4suaU6QEXT68axski5tdM1SNcYtfOc3XHFyXsjb6zL8hiioLi1LbjdbIHx3bsQ5u0coIU3zAOyTYtt7Vlx1hVOoza4ib7rYqU8FKeFfdaVBEZPV9d8fo0s6d66dMuqKvpdjbaIk5AfYcV5IcV3KogSiM6mCAN4grSrsVCoZNSTVZDi1kfyTAh8jqaCVprh8NFGvSPkwArjRMpaUJvajQe68O43NXJhTmwx971GEzMml5gq7cUzrEJimEtxcaNpl7nEIk0ZgzuCCzbLMrgDkWJxOyFDXs5RSFP8UglETJVz4UcOz5WveJYrzLonerNt0fhs1fawLtfnccSeiDlOQE6YybDQ4dHUqvzkje46YXhtBdTsIq6gm0x",
+        "relevant_market_commission_rate": "3",
+        "second_level_category_id": 200001385,
+        "second_level_category_name": "Remote Control Toys",
+        "shop": {
+            "_id": "6104aeb84de1c30012053081",
+            "shop_id": 911919048,
+            "shop_url": "https://www.aliexpress.com/store/911919048"
+        },
+        "app_sale_price": 16.5,
+        "app_sale_price_currency": "USD",
+        "original_price": 23.57,
+        "sale_price": 16.5,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104aa804de1c3001203fe76",
+                "app_sale_price": 16.5,
+                "app_sale_price_currency": "USD",
+                "original_price": 23.57,
+                "sale_price": 16.5,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:42:24.534Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104aa804de1c3001203fe77",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:42:24.534Z"
+            }
+        ],
+        "evaluate_rate": 99.6,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104aa804de1c3001203fe78",
+                "evaluate_rate": 99.6,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:42:24.534Z"
+            }
+        ],
+        "discount_rate": 30,
+        "lastest_volume": 667,
+        "sales": [
+            {
+                "_id": "6104aa804de1c3001203fe79",
+                "lastest_volume": 667,
+                "modificationDate": "2021-07-31T01:42:24.534Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-26T06:56:27.404Z",
+        "_id": "6104aa054de1c3001203dc20",
+        "commission_rate": 7,
+        "first_level_category_id": "15",
+        "first_level_category_name": "Home & Garden",
+        "hot_product_commission_rate": 11.5,
+        "product_detail_url": "https://www.aliexpress.com/item/4001163889141.html",
+        "product_id": 4001163889141,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/H6410283bd88a4b49a78a15e530c9cf31p.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/H6410283bd88a4b49a78a15e530c9cf31p.jpg",
+                "https://ae04.alicdn.com/kf/Hc30571a14c4447e7841770684e8e2798Y.jpg",
+                "https://ae04.alicdn.com/kf/H34e7a5ff4c6544b89202ed180960aa94W.jpg",
+                "https://ae04.alicdn.com/kf/H2c69b166356140f3804c51738fdf00e0S.jpg",
+                "https://ae04.alicdn.com/kf/Hf0a3b267aff14dd0b1ec7dad7faeda59u.jpg",
+                "https://ae04.alicdn.com/kf/H2d95637802c04b5a97df4a76974a68c8i.jpg"
+            ]
+        },
+        "product_title": "25pcs Rose Gold Metal Balloons Adults Happy Birthday Party Decor Kids Ballon Boy Girl Birthday Baloon Wedding Birthday Balon",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1NJUagEQTGWhwHADnBSvzfg1OUKTslUfuZB3pBCEj6L88fVTHjELS1Mx7bFcav2AdY1CsZxZP8HRs1R1cehrrjkzFsWRDvhaVYiEekOhQpqMgQMds2NYcu4oTexxUEeEO4QcxfRln2CIkwTzKa2Hm01JpqKmv1PNnPmarAfLbjAFb1RPOmvWSnAYcBUpp6EG0uwUbQlnbGbwqvSFsNpjasMmdj8RfVjWyviZ7EaO5cpgwRJcGyrxgIz7z6qM9LsLDQWLIKyp62kvlc4OUETtDajMxAwsUXOXdzW9yjgPStzIjBYAwSPVYSIoZ71bgmIBFxQpAq02D6ZfxLStLix2qxujknQaGHBAc3QCTZaKCy0bFvszJT0B0THSA5Zv2ekRZbD7SME9ulEXvrKpUo9AC3",
+        "relevant_market_commission_rate": "8",
+        "second_level_category_id": 100001824,
+        "second_level_category_name": "Festive & Party Supplies",
+        "shop": {
+            "_id": "6104aa054de1c3001203dc21",
+            "shop_id": 5596003,
+            "shop_url": "https://www.aliexpress.com/store/5596003"
+        },
+        "app_sale_price": 1.98,
+        "app_sale_price_currency": "USD",
+        "original_price": 2.48,
+        "sale_price": 1.98,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104aa054de1c3001203dc22",
+                "app_sale_price": 1.98,
+                "app_sale_price_currency": "USD",
+                "original_price": 2.48,
+                "sale_price": 1.98,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:40:21.038Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104aa054de1c3001203dc23",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:40:21.038Z"
+            }
+        ],
+        "evaluate_rate": 95.3,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104aa054de1c3001203dc24",
+                "evaluate_rate": 95.3,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:40:21.038Z"
+            }
+        ],
+        "discount_rate": 20,
+        "lastest_volume": 2636,
+        "sales": [
+            {
+                "_id": "6104aa054de1c3001203dc25",
+                "lastest_volume": 2636,
+                "modificationDate": "2021-07-31T01:40:21.039Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-26T06:56:27.404Z",
+        "_id": "6104aa044de1c3001203dbca",
+        "commission_rate": 7,
+        "first_level_category_id": "15",
+        "first_level_category_name": "Home & Garden",
+        "hot_product_commission_rate": 8,
+        "product_detail_url": "https://www.aliexpress.com/item/1005002027726102.html",
+        "product_id": 1005002027726102,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/H78bb2aa7989e4c9697543eee861d3fdbw.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/H78bb2aa7989e4c9697543eee861d3fdbw.jpg",
+                "https://ae04.alicdn.com/kf/Hb99d6a7afb27438a88c019f7b5018418Z.jpg",
+                "https://ae04.alicdn.com/kf/H07f4ba395a994c80bf91699dd7195ebbm.jpg",
+                "https://ae04.alicdn.com/kf/H7c4ca37e3b0741c2aaa7dff5adbc0acfj.jpg",
+                "https://ae04.alicdn.com/kf/Hcb0a3a8ae3b1415f9e65e6e41271758cF.jpg",
+                "https://ae04.alicdn.com/kf/Hf84c1373390846178c863c43d9c4de9bi.jpg"
+            ]
+        },
+        "product_title": "2m 10Led Eid Mubarak Led Light String Star Moon Night Light Islamic Muslim Festival Decorations Home Ramadan Kareem Ornament",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1fg6m3CAT1sRpl3ALmZ8mgXAq2lFiep0y8SGTEwJi2KLjNWHiB1fLWIUUkQH51dulQ85j4Hf3vGV2ZspjsFuAR1vzsKlykE0xSkZ678bZUJksTBhfY1BaYgemhEKik8KHhpy70ijm3HI3NY1ZeoXymahMhtyF4PbEETxyCWA0xF7AuhT5expc2h0tYADcFTBBmeiDZqgR0WbyppApnsIhmAgJQTJ7KpUGYgKftYyaGSQySU6giZUoCYcqcZnotLeQtq4LK24RvWpdk4YeSy5Y4PbCsGoKw5h53excgsyMgbnS3o5SovJuW5DIWCdR6uTx4CVJFPe5IMR4CTAqvy11UB1AcIXwv8dm55aOPZylERq5IBnYOmj5R5cDioj9fLEoeUY3MsWKqnSnCV3SBLjTH",
+        "relevant_market_commission_rate": "3",
+        "second_level_category_id": 100001824,
+        "second_level_category_name": "Festive & Party Supplies",
+        "shop": {
+            "_id": "6104aa044de1c3001203dbcb",
+            "shop_id": 2537002,
+            "shop_url": "https://www.aliexpress.com/store/2537002"
+        },
+        "app_sale_price": 3.18,
+        "app_sale_price_currency": "USD",
+        "original_price": 4.55,
+        "sale_price": 3.18,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104aa044de1c3001203dbcc",
+                "app_sale_price": 3.18,
+                "app_sale_price_currency": "USD",
+                "original_price": 4.55,
+                "sale_price": 3.18,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:40:20.329Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104aa044de1c3001203dbcd",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:40:20.329Z"
+            }
+        ],
+        "evaluate_rate": 92.1,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104aa044de1c3001203dbce",
+                "evaluate_rate": 92.1,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:40:20.329Z"
+            }
+        ],
+        "discount_rate": 30,
+        "lastest_volume": 3120,
+        "sales": [
+            {
+                "_id": "6104aa044de1c3001203dbcf",
+                "lastest_volume": 3120,
+                "modificationDate": "2021-07-31T01:40:20.329Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-26T06:56:27.404Z",
+        "_id": "6104aa044de1c3001203dbb4",
+        "commission_rate": 7,
+        "first_level_category_id": "15",
+        "first_level_category_name": "Home & Garden",
+        "hot_product_commission_rate": 10,
+        "product_detail_url": "https://www.aliexpress.com/item/32994848645.html",
+        "product_id": 32994848645,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/Hb893a281c2c64798869036515a17374bM.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/Hb893a281c2c64798869036515a17374bM.jpg",
+                "https://ae04.alicdn.com/kf/H9379080b170942959181e0f620fe629e6.jpg",
+                "https://ae04.alicdn.com/kf/H7209f0b528134a0e82a35b15c9aca946w.jpg",
+                "https://ae04.alicdn.com/kf/Hb26a7ba18c034144b05b0d83f84b0862b.jpg",
+                "https://ae04.alicdn.com/kf/H02db18023e894b4693cf030ac24d086ca.jpg",
+                "https://ae04.alicdn.com/kf/Hb900d0ab2d484044893a718621cad951B.jpg"
+            ]
+        },
+        "product_title": "Birthday Party Balloons Stand Balloon Holder Column Plastic Balloon Stick Birthday Party Decorations Kids Adult Wedding Balloon",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD16fxpOFAY4l3mmwac7biVbqBQNii3ppB61qMuZPWdIfswJ2HlzEA24dvMLXJ9XrXcm9muPImPdkw2fqsz7zGCCePuqRKvHuTCK65EcnEJ7PuDbmaG8kbe51KS4gZorFAl70oczDt9IHlFrIj23QRDeDeqbrUL1mrwXuKUDJhmH8qxm3m4sH1NM4qNEYih8HnSft8JudmcjkXXPjEpifRlLavtt9WanEf91hOuNaX2u4xsqUS9hqj3rT7UcbUXwdYlchR8qBTiq5SDbKVSAc8IdqbxrQToqGkHNBIg4Qbm6ivDSxHP6hRadECrEAXdPZzH2xJqW50aK1Q56XKPKWWsojDB2oCWH8A1LH8do3s2KRMXeNnQ2zNC9opjG5F8AiyGt8r3I2qQkD6MiBX4leoKX",
+        "relevant_market_commission_rate": "3",
+        "second_level_category_id": 100001824,
+        "second_level_category_name": "Festive & Party Supplies",
+        "shop": {
+            "_id": "6104aa044de1c3001203dbb5",
+            "shop_id": 2537002,
+            "shop_url": "https://www.aliexpress.com/store/2537002"
+        },
+        "app_sale_price": 5.64,
+        "app_sale_price_currency": "USD",
+        "original_price": 8.42,
+        "sale_price": 5.64,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104aa044de1c3001203dbb6",
+                "app_sale_price": 5.64,
+                "app_sale_price_currency": "USD",
+                "original_price": 8.42,
+                "sale_price": 5.64,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:40:20.179Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104aa044de1c3001203dbb7",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:40:20.179Z"
+            }
+        ],
+        "evaluate_rate": 95.7,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104aa044de1c3001203dbb8",
+                "evaluate_rate": 95.7,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:40:20.179Z"
+            }
+        ],
+        "discount_rate": 33,
+        "lastest_volume": 3220,
+        "sales": [
+            {
+                "_id": "6104aa044de1c3001203dbb9",
+                "lastest_volume": 3220,
+                "modificationDate": "2021-07-31T01:40:20.179Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-26T06:56:27.404Z",
+        "_id": "6104aa034de1c3001203db90",
+        "commission_rate": 7,
+        "first_level_category_id": "15",
+        "first_level_category_name": "Home & Garden",
+        "hot_product_commission_rate": 8,
+        "product_detail_url": "https://www.aliexpress.com/item/32859718675.html",
+        "product_id": 32859718675,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/HTB10yJ3fL9TBuNjy0Fcq6zeiFXap.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/HTB10yJ3fL9TBuNjy0Fcq6zeiFXap.jpg",
+                "https://ae04.alicdn.com/kf/He7fcd4a7643d44799e4de1f59e3a52f3b.jpg",
+                "https://ae04.alicdn.com/kf/HTB1v5OufNWYBuNjy1zkq6xGGpXaR.jpg",
+                "https://ae04.alicdn.com/kf/HTB18Rp5fQ9WBuNjSspeq6yz5VXaN.jpg",
+                "https://ae04.alicdn.com/kf/H61e4d40d35fd45659c738a3bf5ac7434z.jpg",
+                "https://ae04.alicdn.com/kf/Ha4dae30b68144287940a0cf5a83c9cceZ.jpg"
+            ]
+        },
+        "product_title": "New beautiful 25 heads/bouquet mini artificial calla with leaf plastic fake lily Aquatic plants home room decoration flower",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD16iI5zanPpwyqY9skV4PJ0Be9DW2rQgcDBFkQUnj00VdXkjjz3TDIT43hODsKDX0TBrEyq5xz453F22geLKPKgQMR8JgvzMCGUJRzKg2sYmLaW4MpPvX86nuNsMAUFjukEkP6abz7obei9omYvACR4BQRMu9pHDVx4y3QEeq1GunPOtYdwcxWJHIHUNb7OG2OzSMkow0u3yuUWSfmoVvASlDIwvkEWUkjbnrWg3G4XKBxin05TpBGH7V6NpseQtZ1xXb4QfYtrHVuAmz2rBUAogcTQnDwwJfJQufYxtsBIEY0yU70kctbk3nbDkbHvLcOiK15YMAMGM2ljzCmbaeLLWKAyOlPA81yXq4w0rk7JrGfev9kFsMGR8TrCCcASD9JwaZVbYLoO5JGEcg5tzz9h",
+        "relevant_market_commission_rate": "4",
+        "second_level_category_id": 100001824,
+        "second_level_category_name": "Festive & Party Supplies",
+        "shop": {
+            "_id": "6104aa034de1c3001203db91",
+            "shop_id": 403910,
+            "shop_url": "https://www.aliexpress.com/store/403910"
+        },
+        "app_sale_price": 0.01,
+        "app_sale_price_currency": "USD",
+        "original_price": 1.64,
+        "sale_price": 0.01,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104aa034de1c3001203db92",
+                "app_sale_price": 0.01,
+                "app_sale_price_currency": "USD",
+                "original_price": 1.64,
+                "sale_price": 0.01,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:40:19.923Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104aa034de1c3001203db93",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:40:19.923Z"
+            }
+        ],
+        "evaluate_rate": 96.2,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104aa034de1c3001203db94",
+                "evaluate_rate": 96.2,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:40:19.923Z"
+            }
+        ],
+        "discount_rate": 99,
+        "lastest_volume": 3377,
+        "sales": [
+            {
+                "_id": "6104aa034de1c3001203db95",
+                "lastest_volume": 3377,
+                "modificationDate": "2021-07-31T01:40:19.923Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-26T06:56:27.404Z",
+        "_id": "6104aa034de1c3001203db70",
+        "commission_rate": 7,
+        "first_level_category_id": "15",
+        "first_level_category_name": "Home & Garden",
+        "hot_product_commission_rate": 10,
+        "product_detail_url": "https://www.aliexpress.com/item/1005001357240321.html",
+        "product_id": 1005001357240321,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/Hc90b83dfb2e24e85940c4acc9520888dd.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/Hc90b83dfb2e24e85940c4acc9520888dd.jpg",
+                "https://ae04.alicdn.com/kf/Hd41dabb0782347f8b8ea4474029224c7p.jpg",
+                "https://ae04.alicdn.com/kf/H25229327375b40bda6c49a191b93d2211.jpg",
+                "https://ae04.alicdn.com/kf/He34e1333719e4d3ba685218fdd82e331r.jpg",
+                "https://ae04.alicdn.com/kf/H27d341b0d08a4509acc99defc00a64bcx.jpg",
+                "https://ae04.alicdn.com/kf/H2f0ae4b3a3da42bea8e0499cfe219208X.jpg"
+            ]
+        },
+        "product_title": "White Roses Artificial Flowers Silk Peonies Wedding Decorative Vases for Home Decor Bride Bouquet Foam Craft Gifts Fake Plants",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1fKfcgEccflWLmb8CEElRasp50LLvDJtfuskGlKklbj1xl4jOH6XNZDjQlNl2YftaquZUsyTDIF1DTr8tpPdt6ILhnPVbUGgdRoaDnvn5oRx0K4lJmaavmCrDynpVyjgGOWmYalKn4pWusTqGZ1pmrZfkGIEQhuSVYIvjTpSqayL1E9tqSzSJ5HNmIjOTfGFX0Tl4KjXIS7t15HsSr1mNGzVLYooTEPKYTAuLY1fKvOoIjnOCEzuVaCnsQaVcNxvvHo0Vvp8rFKoh9BXwtue5qNNZoRPb2irksQOCR2j2vhwmcs2M9Rg6TKJrolaCiqI8ehLar0Ivkh4xyeaTrgRQYE2ilAnAXlW42J9uidEsw6rJcNHEcjosqoZY35fx50VoifeglpifAEFHGlCwPcrur",
+        "relevant_market_commission_rate": "4",
+        "second_level_category_id": 100001824,
+        "second_level_category_name": "Festive & Party Supplies",
+        "shop": {
+            "_id": "6104aa034de1c3001203db71",
+            "shop_id": 910354350,
+            "shop_url": "https://www.aliexpress.com/store/910354350"
+        },
+        "app_sale_price": 3.09,
+        "app_sale_price_currency": "USD",
+        "original_price": 6.18,
+        "sale_price": 3.09,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104aa034de1c3001203db72",
+                "app_sale_price": 3.09,
+                "app_sale_price_currency": "USD",
+                "original_price": 6.18,
+                "sale_price": 3.09,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:40:19.686Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104aa034de1c3001203db73",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:40:19.686Z"
+            }
+        ],
+        "evaluate_rate": 95.3,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104aa034de1c3001203db74",
+                "evaluate_rate": 95.3,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:40:19.686Z"
+            }
+        ],
+        "discount_rate": 50,
+        "lastest_volume": 4382,
+        "sales": [
+            {
+                "_id": "6104aa034de1c3001203db75",
+                "lastest_volume": 4382,
+                "modificationDate": "2021-07-31T01:40:19.686Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-26T06:56:27.404Z",
+        "_id": "6104a9fb4de1c3001203d7b8",
+        "commission_rate": 7,
+        "first_level_category_id": "15",
+        "first_level_category_name": "Home & Garden",
+        "hot_product_commission_rate": 26,
+        "product_detail_url": "https://www.aliexpress.com/item/10000312401723.html",
+        "product_id": 10000312401723,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/H650312436b044b6c919d62b0d4681695z.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/H650312436b044b6c919d62b0d4681695z.jpg",
+                "https://ae04.alicdn.com/kf/H4bfd66ee423b4b5f8ad5e921539979f5o.jpg",
+                "https://ae04.alicdn.com/kf/Hdd45bbc0943a4008b5fa8048cc46306aO.jpg",
+                "https://ae04.alicdn.com/kf/H902f951cfdca45598c99abaafc7f6107P.jpg"
+            ]
+        },
+        "product_title": "100pcs/lot Large Hydrogel Pearl Shaped Big 3-4cm Crystal Soil Water Beads Mud Grow Ball Wedding Growing Bulbs Home Decor",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1UOvRefAEyJrhoKpYuXP4HIh8edAZKessDEfjrkkNUu51IqOubellHsIoMENHqHifo4mF9IPhEeNJqZM8p3uXdvtUojIPcRquq04pzhyFiUO4SinC4fvfZmuNTMtCZBkqWfRclkz0cJKxxahsUTmsgIN3kDxjuIGvVpIngoKppZAggkhzV8HdjXwW8A9OhWceupRtEy43mI7wY2m97PSkEa38MrfKGHLJTf1PfPgVMxxFzWIPtwLr1ZKqtRWr3KQz1hLeDMGOw4qYtKVDg3UbsHeMywU0nKGjFHKhboW665QKKgSsZB9PcefbGpiaUz3N32Asst43iUF6SOOG9kfeAPlmaLxqCRROQpSJHDpq9z1FQMau3d39X0QGsmNvhg7RV4C0QsueSIBDeGcUYTdNp",
+        "relevant_market_commission_rate": "3",
+        "second_level_category_id": 3710,
+        "second_level_category_name": "Home Decor",
+        "shop": {
+            "_id": "6104a9fb4de1c3001203d7b9",
+            "shop_id": 5876406,
+            "shop_url": "https://www.aliexpress.com/store/5876406"
+        },
+        "app_sale_price": 0.01,
+        "app_sale_price_currency": "USD",
+        "original_price": 1.78,
+        "sale_price": 0.01,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104a9fb4de1c3001203d7ba",
+                "app_sale_price": 0.01,
+                "app_sale_price_currency": "USD",
+                "original_price": 1.78,
+                "sale_price": 0.01,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:40:11.515Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104a9fb4de1c3001203d7bb",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:40:11.515Z"
+            }
+        ],
+        "evaluate_rate": 93.8,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104a9fb4de1c3001203d7bc",
+                "evaluate_rate": 93.8,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:40:11.515Z"
+            }
+        ],
+        "discount_rate": 99,
+        "lastest_volume": 3559,
+        "sales": [
+            {
+                "_id": "6104a9fb4de1c3001203d7bd",
+                "lastest_volume": 3559,
+                "modificationDate": "2021-07-31T01:40:11.515Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-26T06:56:27.404Z",
+        "_id": "6104a9f74de1c3001203d5f6",
+        "commission_rate": 7,
+        "first_level_category_id": "15",
+        "first_level_category_name": "Home & Garden",
+        "hot_product_commission_rate": 0,
+        "product_detail_url": "https://www.aliexpress.com/item/32865115798.html",
+        "product_id": 32865115798,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/H569c79d8a2124f8f851c7553d2811f4eg.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/H569c79d8a2124f8f851c7553d2811f4eg.jpg",
+                "https://ae04.alicdn.com/kf/H90abe7d4215140a1b474a706a02da818i.jpg",
+                "https://ae04.alicdn.com/kf/Hfad85b6d29544200b7ecfb8bad912564Q.jpg",
+                "https://ae04.alicdn.com/kf/H78d25a1d87fa49d9aaae2e23d8a3fa3eb.jpg",
+                "https://ae04.alicdn.com/kf/H4e46d46ce8cc42408e84c76a415f2c71A.jpg",
+                "https://ae04.alicdn.com/kf/H7807ae7626794f638924aff9efc22d07E.jpg"
+            ]
+        },
+        "product_title": "Creative DIY Donut Mold Cake Decorating Tools Plastic Desserts Bread Cutter Maker Baking Supplies Kitchen Tools",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1ZGeD2bZtNBiDi9MPtplIUwUWmHzKY7LYuTCBWSaAZtF0NTfHZ0Nl3jRGZbHywGltGzaZD4GbcfIRuEHeToFpoIjn1ikCShp2Huwj8qWo64tBGq495Ws1OhDvhCPiAmTpLI419Rqi073dooBOO2K0Fo12D5pKV4ANMJthZ05RZXbE2hybIpNuywQYE4JP8OrKr8XQkAdZuUDOmrNu5OkQHTWbDe3Mgv8tqNVHTmaJ6t62gg9mK3SZA9DpYh36b8b5fX3p6QMhy09yiImwnKvTPUxcw35O1EbduWnOypIfbbiei4aakJ5asjrFqVwJUqzv6t1c7lKqG8rNAjdkGzDolKja9ntGtdVoLWk0zhq28TPbUUphD1LTd7XuPvJyDJx6RiwVvkDjFivpIe9ilrSdz",
+        "relevant_market_commission_rate": "3",
+        "second_level_category_id": 200000920,
+        "second_level_category_name": "Kitchen,Dining & Bar",
+        "shop": {
+            "_id": "6104a9f74de1c3001203d5f7",
+            "shop_id": 2340300,
+            "shop_url": "https://www.aliexpress.com/store/2340300"
+        },
+        "app_sale_price": 0.01,
+        "app_sale_price_currency": "USD",
+        "original_price": 3.91,
+        "sale_price": 0.01,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104a9f74de1c3001203d5f8",
+                "app_sale_price": 0.01,
+                "app_sale_price_currency": "USD",
+                "original_price": 3.91,
+                "sale_price": 0.01,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:40:07.778Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104a9f74de1c3001203d5f9",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:40:07.778Z"
+            }
+        ],
+        "evaluate_rate": 97,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104a9f74de1c3001203d5fa",
+                "evaluate_rate": 97,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:40:07.778Z"
+            }
+        ],
+        "discount_rate": 99,
+        "lastest_volume": 3789,
+        "sales": [
+            {
+                "_id": "6104a9f74de1c3001203d5fb",
+                "lastest_volume": 3789,
+                "modificationDate": "2021-07-31T01:40:07.778Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-31T01:58:05.519Z",
+        "_id": "6104a9f74de1c3001203d5b6",
+        "commission_rate": 7,
+        "first_level_category_id": "15",
+        "first_level_category_name": "Home & Garden",
+        "hot_product_commission_rate": 8,
+        "product_detail_url": "https://www.aliexpress.com/item/4001264437885.html",
+        "product_id": 4001264437885,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/Hb3b60e14773b4f4198b443dccbcf71b60.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/Hb3b60e14773b4f4198b443dccbcf71b60.jpg",
+                "https://ae04.alicdn.com/kf/Hb2ff961e481c4a2fa9900b51b3b9eabfa.jpg",
+                "https://ae04.alicdn.com/kf/Hfd93c7bda85245d3930ad8f0cd5f9436e.jpg",
+                "https://ae04.alicdn.com/kf/H455ef78a341747af812508f9b3b54abax.jpg",
+                "https://ae04.alicdn.com/kf/H730a56cf7b1447889a4b0a40bb236737N.jpg",
+                "https://ae04.alicdn.com/kf/H30196276834d4545babded87bcee2dee7.jpg"
+            ]
+        },
+        "product_title": "Topfinel Vinyl Record Table Mats 6 pcs Drink Coaster Table Placemats Heat-resistant Nonslip Pads Home Decor Creative Cup Coaster",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1Auy7g2AunokKGwzdgEkQw0D8STzK10EuvzaHQSMgxxfDUwPZQBtfV6NkOPcSe1qBtgoq0GWeG9Lvqla2dkGFCsl9kzs5TmoqCEFGtHZRwxaz8OujCYxEI7YYAU4UVf5gyLVwMj4ZhNgOcOJBrhNkc1pmfEmE2Z84d4to5iJJehnaLxslYIVRQEuC6Nru8tloTSjY7bYhO0S4aXJrbSusCmvtgg6PLeWi8jVQ4UlJRqcyccXAbaGn11KkHrfLtzmu9f4hLunNJaof6WAaIlRC2oFoLatHPqjj3pDySPJeXzrgYb3xNtIBuXJE6EeR0VX2wg8Z7ua7QAAdJ6T0A9VNi0uY1VTLb828V3BKk3ZzvO48XZoNxRtw8J9Cj4dSnOTEhmw9j1EFeIMvDHxXEvrXl",
+        "relevant_market_commission_rate": "3.5",
+        "second_level_category_id": 200000920,
+        "second_level_category_name": "Kitchen,Dining & Bar",
+        "shop": {
+            "_id": "6104ae2d4de1c30012050803",
+            "shop_id": 1412045,
+            "shop_url": "https://www.aliexpress.com/store/1412045"
+        },
+        "app_sale_price": 6.99,
+        "app_sale_price_currency": "USD",
+        "original_price": 13.99,
+        "sale_price": 6.99,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104a9f74de1c3001203d5b8",
+                "app_sale_price": 6.99,
+                "app_sale_price_currency": "USD",
+                "original_price": 13.99,
+                "sale_price": 6.99,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:40:07.288Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104a9f74de1c3001203d5b9",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:40:07.288Z"
+            }
+        ],
+        "evaluate_rate": 99.3,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104a9f74de1c3001203d5ba",
+                "evaluate_rate": 99.3,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:40:07.288Z"
+            }
+        ],
+        "discount_rate": 50,
+        "lastest_volume": 3199,
+        "sales": [
+            {
+                "_id": "6104a9f74de1c3001203d5bb",
+                "lastest_volume": 3196,
+                "modificationDate": "2021-07-31T01:40:07.288Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-31T01:58:04.279Z",
+        "_id": "6104a9f64de1c3001203d522",
+        "commission_rate": 7,
+        "first_level_category_id": "15",
+        "first_level_category_name": "Home & Garden",
+        "hot_product_commission_rate": 0,
+        "product_detail_url": "https://www.aliexpress.com/item/32933014145.html",
+        "product_id": 32933014145,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/H1a5228fe224644ed8ce25d53d4479e836.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/H1a5228fe224644ed8ce25d53d4479e836.jpg",
+                "https://ae04.alicdn.com/kf/Ha622b3acbc1f4fb19fb8f3354ece1ddcq.jpg",
+                "https://ae04.alicdn.com/kf/H7f1d0d997c5a495fbd5aebf553823796n.jpg",
+                "https://ae04.alicdn.com/kf/Hf7143fecf021426fa959774ba40c9a23a.jpg",
+                "https://ae04.alicdn.com/kf/H7cde3529a7484deab00ba666d7578c30j.jpg",
+                "https://ae04.alicdn.com/kf/H0d2fb561dd1e4f07af8562886fd52014a.jpg"
+            ]
+        },
+        "product_title": "8pieces Household Super Absorbent Microfiber Towel Kitchen Dish Cloth Non-Stick Oil Washing  Rag  Tableware Cleaning Wiping Tool",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD16cCxWC0FuUEc4CZDpIqIKII7JKA7wFnjRHCO6F6Mi8Vnb8UAWFQ5AVL2VVJHAvgU0FlYHXNGgpMagXBS4g3VgFOY8wtkiQBiR6XDoZrwrz5Cmpz2gaiTRjetuOm8DDsuovx8QlPbmxIryIJKa8X42Ob7SOckok25QPCeepLBFYSOf2V1WBPBU0kWid9khYVgTCEvJIcWHZCPBqaT0AF5xQm22zrMmUoFaHz7l9Vlx8nRZ6Onqa4hMtnaMqRSbppKTQOwNZetXnc6gn3Ch4DDBDtc3RSfdaLuzyPca0WVy13c2GHvCkJYkSdhS7NDoEfHgldHwrBdWa9U83bUMrGhnCWZk6inXc50o49ztEnC82A88MRgtVlF4lCkHLsbsikocavDYjGgU6t7b6NeI4egL",
+        "relevant_market_commission_rate": "5",
+        "second_level_category_id": 200033149,
+        "second_level_category_name": "Household Merchandises",
+        "shop": {
+            "_id": "6104ae2c4de1c30012050775",
+            "shop_id": 4493107,
+            "shop_url": "https://www.aliexpress.com/store/4493107"
+        },
+        "app_sale_price": 3.1,
+        "app_sale_price_currency": "USD",
+        "original_price": 7.63,
+        "sale_price": 3.1,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104a9f64de1c3001203d524",
+                "app_sale_price": 3.1,
+                "app_sale_price_currency": "USD",
+                "original_price": 7.63,
+                "sale_price": 3.1,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:40:06.075Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104a9f64de1c3001203d525",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:40:06.075Z"
+            }
+        ],
+        "evaluate_rate": 98,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104a9f64de1c3001203d526",
+                "evaluate_rate": 98,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:40:06.075Z"
+            }
+        ],
+        "discount_rate": 59,
+        "lastest_volume": 2424,
+        "sales": [
+            {
+                "_id": "6104a9f64de1c3001203d527",
+                "lastest_volume": 2424,
+                "modificationDate": "2021-07-31T01:40:06.075Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-31T01:58:02.550Z",
+        "_id": "6104a9f44de1c3001203d45a",
+        "commission_rate": 7,
+        "first_level_category_id": "15",
+        "first_level_category_name": "Home & Garden",
+        "hot_product_commission_rate": 0,
+        "product_detail_url": "https://www.aliexpress.com/item/1005001874276253.html",
+        "product_id": 1005001874276253,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/He021e206ad8e4993a270594c72065f334.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/He021e206ad8e4993a270594c72065f334.jpg",
+                "https://ae04.alicdn.com/kf/H58957961953a454f949569f9a0a1261e4.jpg",
+                "https://ae04.alicdn.com/kf/H489a4997adb2471ab3f5070c47e17f7aX.jpg",
+                "https://ae04.alicdn.com/kf/H0a2c00efa2704275923ba239aaf7e4513.jpg",
+                "https://ae04.alicdn.com/kf/H3bdf77e94a7a43fdb5d3ab92823c8195G.jpg",
+                "https://ae04.alicdn.com/kf/Hd1d3483e988a49bbbfc2854f0c196d0cD.jpg"
+            ]
+        },
+        "product_title": "Hot! 1/2/5/10PCS Double-layer Absorbent Microfiber Kitchen Dish Cloth Non-stick Oil Household Cleaning Wiping Towel Kitchen Tool",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1OdWdwPhUGK6s2UKW15koKNmbay5d8hKm5NMKBOSk5gUKcRitUkEStLuT07Jm47HstcVcOzugwxYx1wbdIf1BL9zzlVyw5fsZxvPx5T99KGCkX4BWVISRivGpluWSbNXS91eqBiRkbp3w0FgiVQBRoP4E7aBTdtDpNILf2fQwHgjgg7ly00JxgPxiTChEp8YQ4X8Mwp13K1YlrFLmdLEvmR3PhJ58euNRCaOGlVGUTcIPxAaYTLkjEh6hKlum67skizBVRz3rC5XRlx6Gzc1MxKCu3RDpIJI4yIn1GWsFqWd4Ts3OAsmtjUSouzb7wKLphxpQpszfXQBfi7dmTWPWaZhXVDtwLqBadPUQoq5ZhP2hD6gqw2bo1RFVvgMW5ft9mSUfWfeOVvrNHDaJ2zLlZ",
+        "relevant_market_commission_rate": "5",
+        "second_level_category_id": 200033149,
+        "second_level_category_name": "Household Merchandises",
+        "shop": {
+            "_id": "6104ae2a4de1c300120506b1",
+            "shop_id": 412895,
+            "shop_url": "https://www.aliexpress.com/store/412895"
+        },
+        "app_sale_price": 0.1,
+        "app_sale_price_currency": "USD",
+        "original_price": 0.2,
+        "sale_price": 0.1,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104a9f44de1c3001203d45c",
+                "app_sale_price": 0.1,
+                "app_sale_price_currency": "USD",
+                "original_price": 0.2,
+                "sale_price": 0.1,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:40:04.331Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104a9f44de1c3001203d45d",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:40:04.331Z"
+            }
+        ],
+        "evaluate_rate": 95,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104a9f44de1c3001203d45e",
+                "evaluate_rate": 95,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:40:04.331Z"
+            }
+        ],
+        "discount_rate": 50,
+        "lastest_volume": 3977,
+        "sales": [
+            {
+                "_id": "6104a9f44de1c3001203d45f",
+                "lastest_volume": 3977,
+                "modificationDate": "2021-07-31T01:40:04.331Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-31T01:58:01.862Z",
+        "_id": "6104a9f34de1c3001203d40a",
+        "commission_rate": 7,
+        "first_level_category_id": "15",
+        "first_level_category_name": "Home & Garden",
+        "hot_product_commission_rate": 10,
+        "product_detail_url": "https://www.aliexpress.com/item/4000299536893.html",
+        "product_id": 4000299536893,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/H0b160044e58946a99c1946f90b41d8d1g.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/H0b160044e58946a99c1946f90b41d8d1g.jpg",
+                "https://ae04.alicdn.com/kf/H5064a9db68e2412cb9d49e09decacc36M.jpg",
+                "https://ae04.alicdn.com/kf/He03ffa1e5f4a4de4b7229337445f1aban.jpg",
+                "https://ae04.alicdn.com/kf/Hca161b6d1a054fc9b5f238273be1f9bcn.jpg",
+                "https://ae04.alicdn.com/kf/Hff779658775e4d0386b799ba41c914c38.jpg",
+                "https://ae04.alicdn.com/kf/Hdc154d3596f841068333a76afba0c656s.jpg"
+            ]
+        },
+        "product_title": "Kitchen Anti-grease wiping rags efficient Super Absorbent Microfiber Cleaning Cloth home washing dish kitchen Cleaning towel",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1g1OwikJeQpJurl6Gi3HdxlqiwCmNPh3LsqlYEP3JzpUfP0J2lkXrSFn00IAuc3GxdZeIIFtMOsZ86Zpc2susvCNJXym0cD4s7QCBMi3oBQusFS2nfjhALAq1ZmSyjXURGACw7vfKKNbqQ5833JQt3F4PGD9qFQYd5HxVNITiOHFhXIRDlwoUUwIdukOxC6H1iG582ClqLouiwTltFa2ap7VkDpgEGCvkghXO0jrGgp7KBvV6zX9usPeZyHXlsrAGRx8YfFt3zuEMPHsM3hJ0bICoLSEX2yliaLIrueEtfzOv16vJmUso3o4rZN3Cg98Q1kuGOdZQmhheQerFdQ242rFEJcsWzhyAObGKBgAuv97Zz0urSw24lHzIGlaIMHGWg0AqOuE5bJysoCDrkXmUx",
+        "relevant_market_commission_rate": "5",
+        "second_level_category_id": 200033149,
+        "second_level_category_name": "Household Merchandises",
+        "shop": {
+            "_id": "6104ae294de1c30012050665",
+            "shop_id": 2068055,
+            "shop_url": "https://www.aliexpress.com/store/2068055"
+        },
+        "app_sale_price": 0.01,
+        "app_sale_price_currency": "USD",
+        "original_price": 0.8,
+        "sale_price": 0.01,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104a9f34de1c3001203d40c",
+                "app_sale_price": 0.01,
+                "app_sale_price_currency": "USD",
+                "original_price": 0.8,
+                "sale_price": 0.01,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:40:03.635Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104a9f34de1c3001203d40d",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:40:03.635Z"
+            }
+        ],
+        "evaluate_rate": 96,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104a9f34de1c3001203d40e",
+                "evaluate_rate": 96,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:40:03.635Z"
+            }
+        ],
+        "discount_rate": 98,
+        "lastest_volume": 5346,
+        "sales": [
+            {
+                "_id": "6104a9f34de1c3001203d40f",
+                "lastest_volume": 5346,
+                "modificationDate": "2021-07-31T01:40:03.635Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-26T06:56:27.404Z",
+        "_id": "6104a9e54de1c3001203cdcc",
+        "commission_rate": 7,
+        "first_level_category_id": "15",
+        "first_level_category_name": "Home & Garden",
+        "hot_product_commission_rate": 8,
+        "product_detail_url": "https://www.aliexpress.com/item/1005002060041816.html",
+        "product_id": 1005002060041816,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/H293e84d4dda3494383e85d8821585c90x.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/H293e84d4dda3494383e85d8821585c90x.jpg",
+                "https://ae04.alicdn.com/kf/H4bcc14afd6604e07b7961920a74991fcw.jpg",
+                "https://ae04.alicdn.com/kf/H80651fbe3c8e4acca2995cb2bcb2e6dfT.jpg",
+                "https://ae04.alicdn.com/kf/H228466519d4f45e99aa939bfb0f55017G.jpg",
+                "https://ae04.alicdn.com/kf/H9334bba1cce346bf90d134cd93ca92bdc.jpg",
+                "https://ae04.alicdn.com/kf/H7050c2d3fa5b43619ca062812083e2ff9.jpeg"
+            ]
+        },
+        "product_title": "1Set Children Cute Cartoon Werewolf Kill Hero Temporary Tattoo Stickers Baby Shower Kids Body Makeup Sticker Tattoos",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1PohVl9FmLLoXGvNsbsg3vTGZmcPM7VLSbuRPYeGR3utcA34qanG2iuTdCqmGHdxFplEmj4ZKJYyzF2yyr1kUZXgIODmYPJNSGkVE6TRGlDe5AGXMRc2glbILLH5f0w8EVFtrpj7LbwLrT0HWkLmJA4gSlBfeo4MsoZaINrXphXG5SmbLCjvm6wND3t7oZEoyqScbQWeEYNRzM4yJuWgc6HWDCVjPh3QKIHd9ZtpflWJeDYe6XdmuIHs9Lbx20QN1iJwUii9F6nSBf7l3CaFxsopqvlfpGcbqju0SfC1Rv62qsSZqeMg0WLzz7mfjkPmzw4oRsWOu64US7pXv6kaAKw2qlp7Caci3MTUQHkiLbxBGSojvscbbILu8eERCcbQogMmtbiKBfxqasD2RZzhPd",
+        "relevant_market_commission_rate": "3",
+        "second_level_category_id": 100001824,
+        "second_level_category_name": "Festive & Party Supplies",
+        "shop": {
+            "_id": "6104a9e54de1c3001203cdcd",
+            "shop_id": 5788118,
+            "shop_url": "https://www.aliexpress.com/store/5788118"
+        },
+        "app_sale_price": 2.35,
+        "app_sale_price_currency": "USD",
+        "original_price": 4.7,
+        "sale_price": 2.35,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104a9e54de1c3001203cdce",
+                "app_sale_price": 2.35,
+                "app_sale_price_currency": "USD",
+                "original_price": 4.7,
+                "sale_price": 2.35,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:39:49.330Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104a9e54de1c3001203cdcf",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:39:49.330Z"
+            }
+        ],
+        "evaluate_rate": 97,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104a9e54de1c3001203cdd0",
+                "evaluate_rate": 97,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:39:49.330Z"
+            }
+        ],
+        "discount_rate": 50,
+        "lastest_volume": 1047,
+        "sales": [
+            {
+                "_id": "6104a9e54de1c3001203cdd1",
+                "lastest_volume": 1047,
+                "modificationDate": "2021-07-31T01:39:49.330Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-26T06:56:27.404Z",
+        "_id": "6104a9e54de1c3001203cdbe",
+        "commission_rate": 7,
+        "first_level_category_id": "15",
+        "first_level_category_name": "Home & Garden",
+        "hot_product_commission_rate": 0,
+        "product_detail_url": "https://www.aliexpress.com/item/1005001855887892.html",
+        "product_id": 1005001855887892,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/Hf1b937b20ae1463eabb6fa3ce4502097V.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/Hf1b937b20ae1463eabb6fa3ce4502097V.jpg",
+                "https://ae04.alicdn.com/kf/Hc220df96eeee45d28e5e608cd5311fb90.jpg",
+                "https://ae04.alicdn.com/kf/H89c6839b794c4619a0ba977517c93fede.jpg",
+                "https://ae04.alicdn.com/kf/H8304c04304c3485ba5f1dfea2e10938dg.jpg",
+                "https://ae04.alicdn.com/kf/Ha9b816fc8a844f8297ba9c65fb3bcdfdp.jpg",
+                "https://ae04.alicdn.com/kf/H3f58bf08e0c24e71bc2cfbc089ad7d6bk.jpg"
+            ]
+        },
+        "product_title": "Large Tapestry White Black Sun Moon Mandala Tarot Tapestries Wall Hanging Celestial Hippie Wall Carpet Rugs Dorm Decor",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1Z0wKQENUC1mc549kBBMNdJP7zhWhdlVenwcJ4Zlf9cF2qNZfaZRqvEU0uXaT9sRNDNuLZxHo9ONAIJH817wFpzIOFos1pUV41zeIpwA9FPJA4SurEM0ff1QHaqO8ft4QX4BScnQ1pZfv7ktr83I1lWrl2tVi2RV1TXywG5RxyfJYidzVzRRTRPtm3Z0VmgWWB0pSTy5SwIW6A2HnypCDrNlVv3Vbo2WTQbNWgdfwMdvN33sdiy1vyxUOtAai1ZAZ9AJv47wzfyt0IiRWgbRlggACF1tp68OwYGdBZ0dcJLAvf8xuRWrGervCb6GWqkFxN7AS9wUc7rXQhMHhGXwhHsPJ6Cf5JonAEPubHlwAnoPmuCWh4KKhpPScH0h04pmDHrtjBh1nUL9WIuvrGtfxH",
+        "relevant_market_commission_rate": "3",
+        "second_level_category_id": 3710,
+        "second_level_category_name": "Home Decor",
+        "shop": {
+            "_id": "6104a9e54de1c3001203cdbf",
+            "shop_id": 910366053,
+            "shop_url": "https://www.aliexpress.com/store/910366053"
+        },
+        "app_sale_price": 2.95,
+        "app_sale_price_currency": "USD",
+        "original_price": 5.9,
+        "sale_price": 2.95,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104a9e54de1c3001203cdc0",
+                "app_sale_price": 2.95,
+                "app_sale_price_currency": "USD",
+                "original_price": 5.9,
+                "sale_price": 2.95,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:39:49.256Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104a9e54de1c3001203cdc1",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:39:49.256Z"
+            }
+        ],
+        "evaluate_rate": 97.2,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104a9e54de1c3001203cdc2",
+                "evaluate_rate": 97.2,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:39:49.256Z"
+            }
+        ],
+        "discount_rate": 50,
+        "lastest_volume": 1051,
+        "sales": [
+            {
+                "_id": "6104a9e54de1c3001203cdc3",
+                "lastest_volume": 1051,
+                "modificationDate": "2021-07-31T01:39:49.256Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-26T06:56:27.404Z",
+        "_id": "6104a9e24de1c3001203cc80",
+        "commission_rate": 7,
+        "first_level_category_id": "15",
+        "first_level_category_name": "Home & Garden",
+        "hot_product_commission_rate": 8,
+        "product_detail_url": "https://www.aliexpress.com/item/32960458482.html",
+        "product_id": 32960458482,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/HTB109XoaiDxK1RjSsphq6zHrpXap.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/HTB109XoaiDxK1RjSsphq6zHrpXap.jpg",
+                "https://ae04.alicdn.com/kf/HTB1s7OEujTpK1RjSZKPq6y3UpXaD.jpg",
+                "https://ae04.alicdn.com/kf/HTB1_OdoacfrK1RjSszcq6xGGFXaO.jpg",
+                "https://ae04.alicdn.com/kf/HTB1Z4toafvsK1RjSspdq6AZepXau.jpg",
+                "https://ae04.alicdn.com/kf/HTB1JoRZQRLoK1RjSZFuq6xn0XXa5.jpg",
+                "https://ae04.alicdn.com/kf/HTB1C8NlaXzsK1Rjy1Xbq6xOaFXa9.jpg"
+            ]
+        },
+        "product_title": "Magic Kitchen Sponge Brush Melamine Sponge Cleaning Brush Descaling Knife Pan Pot Cleaner Strong Decontamination Brushes",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD16eTc1XqKhD8CfQXO4jjBse7gi3tqKNXvC0RhjnYU8sY3K2i4nNOpSupxDAYCfaWx7jogSkg2fIxbIovfRkuKUG6IHPpouumzzLzSRWjHyXEcx6aCxVQIXlbJAXNgFVZ6Eig8UPdP8WSMLvbaIHR1wML5VWCoEGNDqZkUtNwhh22KrIU7y5ZKhjyV0Zy5irxm6zO6ExhoVpxvIL3UnPiNjL2ANQOGprIMJBGP7U7gl6yu9R77CHV3x3pOO0JNBvnXAGR26hNKg04bmf6m4QwYuLLmnfjFRnzbnCFddGDmEhO7VeeumDUpM4bVlqs8tFK6MEoupkxpDlxwvwVUFcBOABKhWkqQKe8SfFpaMYe2anjHhJEdEJQt0xFb6wChywEqPSmMzSatsA4IJA7aQgIAJ",
+        "relevant_market_commission_rate": "3",
+        "second_level_category_id": 200033149,
+        "second_level_category_name": "Household Merchandises",
+        "shop": {
+            "_id": "6104a9e24de1c3001203cc81",
+            "shop_id": 912994,
+            "shop_url": "https://www.aliexpress.com/store/912994"
+        },
+        "app_sale_price": 0.01,
+        "app_sale_price_currency": "USD",
+        "original_price": 3.06,
+        "sale_price": 0.01,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104a9e24de1c3001203cc82",
+                "app_sale_price": 0.01,
+                "app_sale_price_currency": "USD",
+                "original_price": 3.06,
+                "sale_price": 0.01,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:39:46.323Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104a9e24de1c3001203cc83",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:39:46.323Z"
+            }
+        ],
+        "evaluate_rate": 93.6,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104a9e24de1c3001203cc84",
+                "evaluate_rate": 93.6,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:39:46.323Z"
+            }
+        ],
+        "discount_rate": 99,
+        "lastest_volume": 13698,
+        "sales": [
+            {
+                "_id": "6104a9e24de1c3001203cc85",
+                "lastest_volume": 13698,
+                "modificationDate": "2021-07-31T01:39:46.323Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-31T01:40:07.632Z",
+        "_id": "6104a9e24de1c3001203cc70",
+        "commission_rate": 7,
+        "first_level_category_id": "15",
+        "first_level_category_name": "Home & Garden",
+        "hot_product_commission_rate": 0,
+        "product_detail_url": "https://www.aliexpress.com/item/4000772775782.html",
+        "product_id": 4000772775782,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/H160f95235feb423ab883392e1c9e46ccy.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/H160f95235feb423ab883392e1c9e46ccy.jpg",
+                "https://ae04.alicdn.com/kf/H3be39ac2d5624c699f929eeee77e275cu.jpg",
+                "https://ae04.alicdn.com/kf/H09297678e38844c882c9930748a5f88cI.jpg",
+                "https://ae04.alicdn.com/kf/Hb961f8a37a084d6194eb9ec51265cc39p.jpg",
+                "https://ae04.alicdn.com/kf/H4e711f1478b1403aad32c2d6b4d623b55.jpg",
+                "https://ae04.alicdn.com/kf/H567f3ec1548441dd8d415178286830fel.jpg"
+            ]
+        },
+        "product_title": "3Pcs Oil Bottle Stopper Lock Plug Seal Leak-proof Food Grade Rubber Nozzle Sprayer Liquor Dispenser Wine Pourer Kitchen Bar Tool",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1gDiHiuHn1YzSNMNcOOerlgnICXVAkapX3M2JuLicVyyappUjY2zowvE72jsyYEdloGBza3A19Xk1GyyewOawxBypjhwcNwWZ8Ww6lxV7R94MnVutU3viu4LmfZetl5ccPSojVNGf7szqfk0ocpEALeZ6ACKHD4uzgTWaShMifEhAaZkVr2RjWCz3x1RHWdTcMxhcRZxGLS8F8yiOzmqvNzUF9NYduYLF7KN9ZJfBjOnl2NFNaUwQjTUtXXBKBZfJWxGKQDjoi6pHaF7o5GGbKM8JobFmbmdtsv6WNFiS0Z6zaPLD8Bl9i48V5kFrz0kScFSQO5NOkY1JpFSWOocbxcS6kCJemv6duOIw5KVwZe1VkeZtRxTeEjkfnuRANwJrdSztgC8aqgRurS5uteS43",
+        "relevant_market_commission_rate": "3",
+        "second_level_category_id": 200000920,
+        "second_level_category_name": "Kitchen,Dining & Bar",
+        "shop": {
+            "_id": "6104a9f74de1c3001203d5e5",
+            "shop_id": 5439166,
+            "shop_url": "https://www.aliexpress.com/store/5439166"
+        },
+        "app_sale_price": 2.08,
+        "app_sale_price_currency": "USD",
+        "original_price": 3.11,
+        "sale_price": 2.08,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104a9e24de1c3001203cc72",
+                "app_sale_price": 2.08,
+                "app_sale_price_currency": "USD",
+                "original_price": 3.11,
+                "sale_price": 2.08,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:39:46.213Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104a9e24de1c3001203cc73",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:39:46.213Z"
+            }
+        ],
+        "evaluate_rate": 93.4,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104a9e24de1c3001203cc74",
+                "evaluate_rate": 93.4,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:39:46.213Z"
+            }
+        ],
+        "discount_rate": 33,
+        "lastest_volume": 5904,
+        "sales": [
+            {
+                "_id": "6104a9e24de1c3001203cc75",
+                "lastest_volume": 5904,
+                "modificationDate": "2021-07-31T01:39:46.213Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-31T01:40:19.623Z",
+        "_id": "6104a9e24de1c3001203cc6a",
+        "commission_rate": 7,
+        "first_level_category_id": "15",
+        "first_level_category_name": "Home & Garden",
+        "hot_product_commission_rate": 25,
+        "product_detail_url": "https://www.aliexpress.com/item/1005001451092241.html",
+        "product_id": 1005001451092241,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/Hbda96f7b321044ebabd60d097def5cdeQ.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/Hbda96f7b321044ebabd60d097def5cdeQ.jpg",
+                "https://ae04.alicdn.com/kf/H7f32943c26d7475db1771592ecb2d1bey.jpg",
+                "https://ae04.alicdn.com/kf/H45725ae4bac74d5793befa44347208f4y.jpg",
+                "https://ae04.alicdn.com/kf/H2a22ebf028f347cb97dfc0e2c321adfbU.jpg",
+                "https://ae04.alicdn.com/kf/Hbb56a5f503ec434f9188ef8e840186441.jpg",
+                "https://ae04.alicdn.com/kf/Hae02f429e2414f4b8b6c8bdcc1b27c32A.jpg"
+            ]
+        },
+        "product_title": "Table Balloon Arch Set Ballon Column Stand for Wedding Birthday Party Decorations Kids Balloons Accessories Christmas Decor ball",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1P48vwqYbGobjETMgggDE4bptt1cY0CDclvRXSnoYVUmamWPSE3CY2yowhDJxHR8VJexQp4LpyTHbkPzKH19ZnmJ5ej31mE9C5yrqLBy6oJyIABKdHDGRdBaHsuU3Rn6aI4LmMj4tsEKmtqav5YUETw8B9b2qlgcFldXlXvjOMf4yfo9WW5e4AVitWsKE5DPJn6DExfK9cAjGCDgjsM033kwSMLDGXQHKU8oEXOlar2vW6out7Qbm7WJPoFKoNAPeHtRRU4u2JdkWfy8FuxAmfZp562tjKKn7lumw9YoG72qHsdwzrw4o4usgPeCdLVo1IW0jYqDeAG9nRz0Dz01xbvO8px27gKjJUyxzuGKsDdpRpT0ZCOTV0jpXDUsHM2APE9V3OVqJWmBBhTXD4RmKX",
+        "relevant_market_commission_rate": "3",
+        "second_level_category_id": 100001824,
+        "second_level_category_name": "Festive & Party Supplies",
+        "shop": {
+            "_id": "6104aa034de1c3001203db65",
+            "shop_id": 5249010,
+            "shop_url": "https://www.aliexpress.com/store/5249010"
+        },
+        "app_sale_price": 4.47,
+        "app_sale_price_currency": "USD",
+        "original_price": 6.38,
+        "sale_price": 4.47,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104a9e24de1c3001203cc6c",
+                "app_sale_price": 4.47,
+                "app_sale_price_currency": "USD",
+                "original_price": 6.38,
+                "sale_price": 4.47,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:39:46.202Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104a9e24de1c3001203cc6d",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:39:46.202Z"
+            }
+        ],
+        "evaluate_rate": 94.6,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104a9e24de1c3001203cc6e",
+                "evaluate_rate": 94.6,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:39:46.202Z"
+            }
+        ],
+        "discount_rate": 30,
+        "lastest_volume": 5340,
+        "sales": [
+            {
+                "_id": "6104a9e24de1c3001203cc6f",
+                "lastest_volume": 5340,
+                "modificationDate": "2021-07-31T01:39:46.202Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    },
+    {
+        "modificationDate": "2021-07-26T06:56:27.404Z",
+        "_id": "6104a9e24de1c3001203cc5a",
+        "commission_rate": 7,
+        "first_level_category_id": "15",
+        "first_level_category_name": "Home & Garden",
+        "hot_product_commission_rate": 0,
+        "product_detail_url": "https://www.aliexpress.com/item/4000468711416.html",
+        "product_id": 4000468711416,
+        "product_main_image_url": "https://ae04.alicdn.com/kf/Ha04bb7dd56bd4a33ad55e0691cf7fbe7h.jpg",
+        "product_small_image_urls": {
+            "string": [
+                "https://ae04.alicdn.com/kf/Ha04bb7dd56bd4a33ad55e0691cf7fbe7h.jpg",
+                "https://ae04.alicdn.com/kf/Hc96698f741b841018127e1c85db12e82k.jpg",
+                "https://ae04.alicdn.com/kf/Hd2204ffa232d41249cf6a9055cc5d376J.jpg",
+                "https://ae04.alicdn.com/kf/H5ea00dee0a84446ca819e5b46ef6ad4cv.jpg",
+                "https://ae04.alicdn.com/kf/H3aeed24157d0421082777f08da8aa3f8d.jpg",
+                "https://ae04.alicdn.com/kf/H403db1c635884fa986927c3996cc3754y.jpg"
+            ]
+        },
+        "product_title": "1/5pcs Is Cheaper Double-layer Absorbent Microfiber Kitchen Dish Cloth Non-stick Oil Household Cleaning Wiping Towel Kichen Tool",
+        "promotion_link": "https://s.click.aliexpress.com/s/IDFv0J6NoaU59WtyjJwa5IWWbvPrMklnxfMGl7uDwKemVcbLbUOniq9L3pr1F9bAVuhTkpHxRLeytL541CjrJWfghPlPhlqj9RYse8VqGvQYEihaYBVBTVtjaDEfvThzQGpPV9Nt0xk432yy2MROU0kXVWo8RZ8cBtob8qCU4QRtGa5kYJFv7kZflCmBR83LB7vcUnjyl8wCi8iVLaVDVAv20hP2NmsFG7loQCFwp3f3ESNcnVTs0gO60c5tqx0VMVRVSxGOAHxjPizLW7fTe0EZ1IGaB5OpPQrg0a1Hwr85FAXc5tjxSkRqHD1T6BxqF1WAP0yDQ0hU4Wow4M4y00WG5uN67dZJInwbd0sIRmDWAFCMzWMmFT46iRDSLqRzVRlqXGYBIF1RYALZDkjFL6HEMncChb19ULRAACbrTO3BC2ORQdZhu0YZwkZsL92NLQVGZ0Qa7iFPH3u5ibzp6j5ZQEFXoqjbHsQv9V19fU7XgeQ283lSFhtl8k0TGF0wDM2lGLlf97C7abjFjAtp1QpJJtcSlVShzWrXi3nLMEAxI3pCtzLMt38dGBE9UNuvtOJ8j8xazY8nyLX2nv8aT0jp7oMY3t8y6ZG8BX0eW1YjHaM7DAaUtFcLxNjZg4phAIDnq2eKel6nzZIY17NBUtSivksTMr48C9bI0GyKVL2ho3JSv66I67tRmIxdN8vF7diHQK2FguFiUMH9",
+        "relevant_market_commission_rate": "5",
+        "second_level_category_id": 200033149,
+        "second_level_category_name": "Household Merchandises",
+        "shop": {
+            "_id": "6104a9e24de1c3001203cc5b",
+            "shop_id": 3505003,
+            "shop_url": "https://www.aliexpress.com/store/3505003"
+        },
+        "app_sale_price": 0.51,
+        "app_sale_price_currency": "USD",
+        "original_price": 6.5,
+        "sale_price": 0.51,
+        "sale_price_currency": "USD",
+        "prices": [
+            {
+                "_id": "6104a9e24de1c3001203cc5c",
+                "app_sale_price": 0.51,
+                "app_sale_price_currency": "USD",
+                "original_price": 6.5,
+                "sale_price": 0.51,
+                "sale_price_currency": "USD",
+                "modificationDate": "2021-07-31T01:39:46.096Z"
+            }
+        ],
+        "available_quantity": -1,
+        "available_quantities": [
+            {
+                "_id": "6104a9e24de1c3001203cc5d",
+                "available_quantity": -1,
+                "modificationDate": "2021-07-31T01:39:46.096Z"
+            }
+        ],
+        "evaluate_rate": 96.5,
+        "reviews_number": -1,
+        "rade_count": -1,
+        "reviews": [
+            {
+                "_id": "6104a9e24de1c3001203cc5e",
+                "evaluate_rate": 96.5,
+                "reviews_number": -1,
+                "rade_count": -1,
+                "modificationDate": "2021-07-31T01:39:46.096Z"
+            }
+        ],
+        "discount_rate": 92,
+        "lastest_volume": 10848,
+        "sales": [
+            {
+                "_id": "6104a9e24de1c3001203cc5f",
+                "lastest_volume": 10848,
+                "modificationDate": "2021-07-31T01:39:46.096Z"
+            }
+        ],
+        "targets": [],
+        "__v": 0
+    }
+]

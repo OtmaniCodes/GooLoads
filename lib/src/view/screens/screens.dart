@@ -1,0 +1,9 @@
+export './minor_screens/create_account/create_account.dart';
+export './minor_screens/onboarding/on_boarding.dart';
+export './root/root.dart';
+export './main_screens/home/home.dart';
+export './main_screens/item/item.dart';
+export './main_screens/search/search.dart';
+export './main_screens/cart/cart.dart';
+export './main_screens/favourite/favourite.dart';
+export './minor_screens/settings/settings.dart';

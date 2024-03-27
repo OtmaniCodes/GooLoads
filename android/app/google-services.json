@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "775676412163",
+    "project_id": "gooloads",
+    "storage_bucket": "gooloads.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775676412163:android:87df31921e859222e2a936",
+        "android_client_info": {
+          "package_name": "com.example.gooloads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775676412163-cl0u378f02qbiu6gic2f1858nf0trltf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtO6B2h1izhoqzqJ3iSpgCzWBOSdf9fs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775676412163-cl0u378f02qbiu6gic2f1858nf0trltf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,241 @@
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (malloc) failed to allocate 32744 bytes for ChunkPool::allocate
+# Possible reasons:
+#   The system is out of physical RAM or swap space
+#   The process is running with CompressedOops enabled, and the Java Heap may be blocking the growth of the native heap
+# Possible solutions:
+#   Reduce memory load on the system
+#   Increase physical memory or swap space
+#   Check if swap backing store is full
+#   Decrease Java heap size (-Xmx/-Xms)
+#   Decrease number of Java threads
+#   Decrease Java thread stack sizes (-Xss)
+#   Set larger code cache with -XX:ReservedCodeCacheSize=
+#   JVM is running with Unscaled Compressed Oops mode in which the Java heap is
+#     placed in the first 4GB address space. The Java Heap base address is the
+#     maximum limit for the native heap growth. Please use -XX:HeapBaseMinAddress
+#     to set the Java Heap base and to place the Java Heap above 4GB virtual address.
+# This output file may be truncated or incomplete.
+#
+#  Out of Memory Error (allocation.cpp:272), pid=12876, tid=0x00000000000011a8
+#
+# JRE version: OpenJDK Runtime Environment (8.0_242-b01) (build 1.8.0_242-release-1644-b01)
+# Java VM: OpenJDK 64-Bit Server VM (25.242-b01 mixed mode windows-amd64 compressed oops)
+# Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x0000000002d72800):  JavaThread "main" [_thread_in_vm, id=4520, stack(0x0000000002c70000,0x0000000002d70000)]
+
+Stack: [0x0000000002c70000,0x0000000002d70000]
+[error occurred during error reporting (printing stack bounds), id 0xc0000005]
+
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+
+Java frames: (J=compiled Java code, j=interpreted, Vv=VM code)
+j  sun.misc.Unsafe.defineAnonymousClass(Ljava/lang/Class;[B[Ljava/lang/Object;)Ljava/lang/Class;+0
+j  java.lang.invoke.InvokerBytecodeGenerator.loadAndInitializeInvokerClass([B[Ljava/lang/Object;)Ljava/lang/Class;+8
+j  java.lang.invoke.InvokerBytecodeGenerator.loadMethod([B)Ljava/lang/invoke/MemberName;+6
+j  java.lang.invoke.InvokerBytecodeGenerator.generateCustomizedCode(Ljava/lang/invoke/LambdaForm;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/MemberName;+17
+j  java.lang.invoke.LambdaForm.compileToBytecode()Ljava/lang/invoke/MemberName;+65
+j  java.lang.invoke.LambdaForm.prepare()V+14
+j  java.lang.invoke.MethodHandle.<init>(Ljava/lang/invoke/MethodType;Ljava/lang/invoke/LambdaForm;)V+31
+j  java.lang.invoke.DelegatingMethodHandle.<init>(Ljava/lang/invoke/MethodType;Ljava/lang/invoke/MethodHandle;)V+6
+j  java.lang.invoke.MethodHandleImpl$IntrinsicMethodHandle.<init>(Ljava/lang/invoke/MethodHandle;Ljava/lang/invoke/MethodHandleImpl$Intrinsic;)V+6
+j  java.lang.invoke.MethodHandleImpl.makeIntrinsic(Ljava/lang/invoke/MethodHandle;Ljava/lang/invoke/MethodHandleImpl$Intrinsic;)Ljava/lang/invoke/MethodHandle;+16
+j  java.lang.invoke.MethodHandleImpl.makeArrays()[Ljava/lang/invoke/MethodHandle;+35
+j  java.lang.invoke.MethodHandleImpl.access$000()[Ljava/lang/invoke/MethodHandle;+0
+j  java.lang.invoke.MethodHandleImpl$Lazy.<clinit>()V+5
+v  ~StubRoutines::call_stub
+j  java.lang.invoke.MethodHandleImpl.varargsArray(I)Ljava/lang/invoke/MethodHandle;+0
+j  java.lang.invoke.MethodHandleImpl.varargsArray(Ljava/lang/Class;I)Ljava/lang/invoke/MethodHandle;+121
+j  java.lang.invoke.MethodHandle.asCollector(Ljava/lang/Class;I)Ljava/lang/invoke/MethodHandle;+36
+j  java.lang.invoke.MethodHandleImpl$AsVarargsCollector.<init>(Ljava/lang/invoke/MethodType;Ljava/lang/invoke/MethodHandle;Ljava/lang/Class;)V+20
+j  java.lang.invoke.MethodHandleImpl$AsVarargsCollector.<init>(Ljava/lang/invoke/MethodHandle;Ljava/lang/Class;)V+7
+j  java.lang.invoke.MethodHandleImpl.makeVarargsCollector(Ljava/lang/invoke/MethodHandle;Ljava/lang/Class;)Ljava/lang/invoke/MethodHandle;+43
+j  java.lang.invoke.MethodHandle.setVarargs(Ljava/lang/invoke/MemberName;)Ljava/lang/invoke/MethodHandle;+26
+j  java.lang.invoke.MethodHandles$Lookup.getDirectMethodCommon(BLjava/lang/Class;Ljava/lang/invoke/MemberName;ZZLjava/lang/Class;)Ljava/lang/invoke/MethodHandle;+263
+j  java.lang.invoke.MethodHandles$Lookup.getDirectMethod(BLjava/lang/Class;Ljava/lang/invoke/MemberName;Ljava/lang/Class;)Ljava/lang/invoke/MethodHandle;+8
+j  java.lang.invoke.MethodHandles$Lookup.findStatic(Ljava/lang/Class;Ljava/lang/String;Ljava/lang/invoke/MethodType;)Ljava/lang/invoke/MethodHandle;+23
+j  java.lang.invoke.CallSite.<clinit>()V+35
+v  ~StubRoutines::call_stub
+j  java.lang.invoke.MethodHandleNatives.linkCallSiteImpl(Ljava/lang/Class;Ljava/lang/invoke/MethodHandle;Ljava/lang/String;Ljava/lang/invoke/MethodType;Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/invoke/MemberName;+6
+j  java.lang.invoke.MethodHandleNatives.linkCallSite(Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/invoke/MemberName;+45
+v  ~StubRoutines::call_stub
+j  org.gradle.api.internal.classpath.DefaultModuleRegistry.<clinit>()V+0
+v  ~StubRoutines::call_stub
+j  org.gradle.launcher.bootstrap.ProcessBootstrap.runNoExit(Ljava/lang/String;[Ljava/lang/String;)V+14
+j  org.gradle.launcher.bootstrap.ProcessBootstrap.run(Ljava/lang/String;[Ljava/lang/String;)V+3
+j  org.gradle.launcher.GradleMain.main([Ljava/lang/String;)V+36
+v  ~StubRoutines::call_stub
+j  sun.reflect.NativeMethodAccessorImpl.invoke0(Ljava/lang/reflect/Method;Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;+0
+j  sun.reflect.NativeMethodAccessorImpl.invoke(Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;+100
+j  sun.reflect.DelegatingMethodAccessorImpl.invoke(Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;+6
+j  java.lang.reflect.Method.invoke(Ljava/lang/Object;[Ljava/lang/Object;)Ljava/lang/Object;+56
+j  org.gradle.wrapper.BootstrapMainStarter.start([Ljava/lang/String;Ljava/io/File;)V+82
+j  org.gradle.wrapper.WrapperExecutor.execute([Ljava/lang/String;Lorg/gradle/wrapper/Install;Lorg/gradle/wrapper/BootstrapMainStarter;)V+14
+j  org.gradle.wrapper.GradleWrapperMain.main([Ljava/lang/String;)V+190
+v  ~StubRoutines::call_stub
+
+---------------  P R O C E S S  ---------------
+
+Java Threads: ( => current thread )
+  0x0000000019351000 JavaThread "Service Thread" daemon [_thread_blocked, id=8972, stack(0x0000000019730000,0x0000000019830000)]
+  0x00000000179f8800 JavaThread "C1 CompilerThread2" daemon [_thread_in_native, id=10884, stack(0x0000000019230000,0x0000000019330000)]
+  0x00000000179de800 JavaThread "C2 CompilerThread1" daemon [_thread_blocked, id=7432, stack(0x0000000019130000,0x0000000019230000)]
+  0x00000000179da800 JavaThread "C2 CompilerThread0" daemon [_thread_blocked, id=13188, stack(0x0000000019030000,0x0000000019130000)]
+  0x00000000179d9800 JavaThread "Attach Listener" daemon [_thread_blocked, id=1984, stack(0x0000000018f30000,0x0000000019030000)]
+  0x00000000179d8800 JavaThread "Signal Dispatcher" daemon [_thread_blocked, id=12924, stack(0x0000000018e30000,0x0000000018f30000)]
+  0x0000000002e6d800 JavaThread "Finalizer" daemon [_thread_blocked, id=8008, stack(0x0000000018c30000,0x0000000018d30000)]
+  0x00000000179b9000 JavaThread "Reference Handler" daemon [_thread_blocked, id=13292, stack(0x0000000018b30000,0x0000000018c30000)]
+=>0x0000000002d72800 JavaThread "main" [_thread_in_vm, id=4520, stack(0x0000000002c70000,0x0000000002d70000)]
+
+Other Threads:
+  0x0000000017997800 VMThread [stack: 0x0000000018a30000,0x0000000018b30000] [id=5764]
+  0x0000000019351800 WatcherThread [stack: 0x0000000019830000,0x0000000019930000] [id=404]
+
+VM state:not at safepoint (normal execution)
+
+VM Mutex/Monitor currently owned by a thread: None
+
+heap address: 0x0000000081600000, size: 2026 MB, Compressed Oops mode: 32-bit
+Narrow klass base: 0x0000000000000000, Narrow klass shift: 3
+Compressed class space size: 1073741824 Address: 0x0000000100000000
+
+Heap:
+ PSYoungGen      total 38400K, used 3993K [0x00000000d5d00000, 0x00000000d8780000, 0x0000000100000000)
+  eden space 33280K, 12% used [0x00000000d5d00000,0x00000000d60e67a0,0x00000000d7d80000)
+  from space 5120K, 0% used [0x00000000d8280000,0x00000000d8280000,0x00000000d8780000)
+  to   space 5120K, 0% used [0x00000000d7d80000,0x00000000d7d80000,0x00000000d8280000)
+ ParOldGen       total 87552K, used 0K [0x0000000081600000, 0x0000000086b80000, 0x00000000d5d00000)
+  object space 87552K, 0% used [0x0000000081600000,0x0000000081600000,0x0000000086b80000)
+ Metaspace       used 4720K, capacity 4976K, committed 5248K, reserved 1056768K
+  class space    used 521K, capacity 612K, committed 640K, reserved 1048576K
+
+Card table byte_map: [0x0000000012230000,0x0000000012630000] byte_map_base: 0x0000000011e25000
+
+Marking Bits: (ParMarkBitMap*) 0x000000006d3af030
+ Begin Bits: [0x0000000012ce0000, 0x0000000014c88000)
+ End Bits:   [0x0000000014c88000, 0x0000000016c30000)
+
+Polling page: 0x0000000001200000
+
+CodeCache: size=245760Kb used=1497Kb max_used=1497Kb free=244262Kb
+ bounds [0x0000000002e70000, 0x00000000030e0000, 0x0000000011e70000]
+ total_blobs=538 nmethods=245 adapters=207
+ compilation: enabled
+
+Compilation events (10 events):
+Event: 0.414 Thread 0x00000000179f8800 nmethod 232 0x0000000002fe4b50 code [0x0000000002fe4ca0, 0x0000000002fe4e10]
+Event: 0.414 Thread 0x00000000179f8800  230       3       java.lang.invoke.MethodType::<init> (15 bytes)
+Event: 0.414 Thread 0x00000000179f8800 nmethod 230 0x0000000002fe4ed0 code [0x0000000002fe5020, 0x0000000002fe51f0]
+Event: 0.414 Thread 0x00000000179f8800  233       1       java.lang.invoke.LambdaForm$Name::type (5 bytes)
+Event: 0.414 Thread 0x00000000179f8800 nmethod 233 0x0000000002fe5290 code [0x0000000002fe53e0, 0x0000000002fe54f0]
+Event: 0.415 Thread 0x00000000179f8800  236       1       java.lang.invoke.LambdaForm$Name::access$000 (5 bytes)
+Event: 0.415 Thread 0x00000000179f8800 nmethod 236 0x0000000002fe5850 code [0x0000000002fe59a0, 0x0000000002fe5a90]
+Event: 0.415 Thread 0x00000000179f8800  237       1       java.lang.invoke.LambdaForm$BasicType::basicTypeChar (5 bytes)
+Event: 0.415 Thread 0x00000000179f8800 nmethod 237 0x0000000002fe5b10 code [0x0000000002fe5c60, 0x0000000002fe5d70]
+Event: 0.415 Thread 0x00000000179f8800  239       3       jdk.internal.org.objectweb.asm.Frame::execute (2252 bytes)
+
+GC Heap History (0 events):
+No events
+
+Deoptimization events (0 events):
+No events
+
+Classes redefined (0 events):
+No events
+
+Internal exceptions (8 events):
+Event: 0.041 Thread 0x0000000002d72800 Exception <a 'java/lang/NoSuchMethodError': Method sun.misc.Unsafe.defineClass(Ljava/lang/String;[BII)Ljava/lang/Class; name or signature does not match> (0x00000000d5d07cc8) thrown at [C:\src\AOSP-openjdk-git\hotspot\src\share\vm\prims\jni.cpp, line 4013
+Event: 0.041 Thread 0x0000000002d72800 Exception <a 'java/lang/NoSuchMethodError': Method sun.misc.Unsafe.prefetchRead(Ljava/lang/Object;J)V name or signature does not match> (0x00000000d5d07fb0) thrown at [C:\src\AOSP-openjdk-git\hotspot\src\share\vm\prims\jni.cpp, line 4013]
+Event: 0.222 Thread 0x0000000002d72800 Exception <a 'java/security/PrivilegedActionException'> (0x00000000d5ec11c8) thrown at [C:\src\AOSP-openjdk-git\hotspot\src\share\vm\prims\jvm.cpp, line 1502]
+Event: 0.222 Thread 0x0000000002d72800 Exception <a 'java/security/PrivilegedActionException'> (0x00000000d5ec13d8) thrown at [C:\src\AOSP-openjdk-git\hotspot\src\share\vm\prims\jvm.cpp, line 1502]
+Event: 0.223 Thread 0x0000000002d72800 Exception <a 'java/security/PrivilegedActionException'> (0x00000000d5ec4fe0) thrown at [C:\src\AOSP-openjdk-git\hotspot\src\share\vm\prims\jvm.cpp, line 1502]
+Event: 0.223 Thread 0x0000000002d72800 Exception <a 'java/security/PrivilegedActionException'> (0x00000000d5ec51f0) thrown at [C:\src\AOSP-openjdk-git\hotspot\src\share\vm\prims\jvm.cpp, line 1502]
+Event: 0.223 Thread 0x0000000002d72800 Exception <a 'java/security/PrivilegedActionException'> (0x00000000d5ec6728) thrown at [C:\src\AOSP-openjdk-git\hotspot\src\share\vm\prims\jvm.cpp, line 1502]
+Event: 0.223 Thread 0x0000000002d72800 Exception <a 'java/security/PrivilegedActionException'> (0x00000000d5ec6938) thrown at [C:\src\AOSP-openjdk-git\hotspot\src\share\vm\prims\jvm.cpp, line 1502]
+
+Events (10 events):
+Event: 0.403 loading class java/lang/invoke/MethodHandleImpl$AsVarargsCollector
+Event: 0.404 loading class java/lang/invoke/DelegatingMethodHandle
+Event: 0.404 loading class java/lang/invoke/DelegatingMethodHandle done
+Event: 0.404 loading class java/lang/invoke/MethodHandleImpl$AsVarargsCollector done
+Event: 0.404 loading class java/lang/invoke/WrongMethodTypeException
+Event: 0.404 loading class java/lang/invoke/WrongMethodTypeException done
+Event: 0.407 loading class java/lang/invoke/MethodHandleImpl$Lazy
+Event: 0.407 loading class java/lang/invoke/MethodHandleImpl$Lazy done
+Event: 0.408 loading class java/lang/invoke/MethodHandleImpl$IntrinsicMethodHandle
+Event: 0.408 loading class java/lang/invoke/MethodHandleImpl$IntrinsicMethodHandle done
+
+
+Dynamic libraries:
+0x00007ff7168c0000 - 0x00007ff7168f1000 	C:\Program Files\Android\Android Studio\jre\bin\java.exe
+0x00007ffa573d0000 - 0x00007ffa575c5000 	C:\Windows\SYSTEM32\ntdll.dll
+0x00007ffa57090000 - 0x00007ffa5714d000 	C:\Windows\System32\KERNEL32.DLL
+0x00007ffa54dd0000 - 0x00007ffa55098000 	C:\Windows\System32\KERNELBASE.dll
+0x00007ffa566e0000 - 0x00007ffa5678c000 	C:\Windows\System32\ADVAPI32.dll
+0x00007ffa56dd0000 - 0x00007ffa56e6e000 	C:\Windows\System32\msvcrt.dll
+0x00007ffa555a0000 - 0x00007ffa5563b000 	C:\Windows\System32\sechost.dll
+0x00007ffa56a30000 - 0x00007ffa56b5b000 	C:\Windows\System32\RPCRT4.dll
+0x00007ffa567c0000 - 0x00007ffa56960000 	C:\Windows\System32\USER32.dll
+0x00007ffa553d0000 - 0x00007ffa553f2000 	C:\Windows\System32\win32u.dll
+0x00007ffa57060000 - 0x00007ffa5708a000 	C:\Windows\System32\GDI32.dll
+0x00007ffa54b10000 - 0x00007ffa54c1b000 	C:\Windows\System32\gdi32full.dll
+0x00007ffa55150000 - 0x00007ffa551ed000 	C:\Windows\System32\msvcp_win.dll
+0x00007ffa54c20000 - 0x00007ffa54d20000 	C:\Windows\System32\ucrtbase.dll
+0x00007ffa48590000 - 0x00007ffa4882a000 	C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.844_none_ca00b6081b84eb1d\COMCTL32.dll
+0x00007ffa56790000 - 0x00007ffa567c0000 	C:\Windows\System32\IMM32.DLL
+0x000000006d430000 - 0x000000006d502000 	C:\Program Files\Android\Android Studio\jre\jre\bin\msvcr100.dll
+0x000000006cbe0000 - 0x000000006d42b000 	C:\Program Files\Android\Android Studio\jre\jre\bin\server\jvm.dll
+0x00007ffa56a00000 - 0x00007ffa56a08000 	C:\Windows\System32\PSAPI.DLL
+0x00007ffa48b60000 - 0x00007ffa48b87000 	C:\Windows\SYSTEM32\WINMM.dll
+0x00007ffa46080000 - 0x00007ffa46089000 	C:\Windows\SYSTEM32\WSOCK32.dll
+0x00007ffa55a00000 - 0x00007ffa55a6b000 	C:\Windows\System32\WS2_32.dll
+0x00007ffa49310000 - 0x00007ffa4931a000 	C:\Windows\SYSTEM32\VERSION.dll
+0x00007ffa50a80000 - 0x00007ffa50a8f000 	C:\Program Files\Android\Android Studio\jre\jre\bin\verify.dll
+0x00007ffa50a50000 - 0x00007ffa50a79000 	C:\Program Files\Android\Android Studio\jre\jre\bin\java.dll
+0x00007ffa4dbc0000 - 0x00007ffa4dbd6000 	C:\Program Files\Android\Android Studio\jre\jre\bin\zip.dll
+0x00007ffa55a70000 - 0x00007ffa561b2000 	C:\Windows\System32\SHELL32.dll
+0x00007ffa52c60000 - 0x00007ffa533f0000 	C:\Windows\SYSTEM32\windows.storage.dll
+0x00007ffa55640000 - 0x00007ffa55995000 	C:\Windows\System32\combase.dll
+0x00007ffa54580000 - 0x00007ffa545ac000 	C:\Windows\SYSTEM32\Wldp.dll
+0x00007ffa554f0000 - 0x00007ffa5559e000 	C:\Windows\System32\SHCORE.dll
+0x00007ffa559a0000 - 0x00007ffa559f5000 	C:\Windows\System32\shlwapi.dll
+0x00007ffa54a50000 - 0x00007ffa54a6f000 	C:\Windows\SYSTEM32\profapi.dll
+0x00007ffa4dba0000 - 0x00007ffa4dbba000 	C:\Program Files\Android\Android Studio\jre\jre\bin\net.dll
+0x00007ffa542f0000 - 0x00007ffa5435a000 	C:\Windows\system32\mswsock.dll
+0x00007ffa4db80000 - 0x00007ffa4db93000 	C:\Program Files\Android\Android Studio\jre\jre\bin\nio.dll
+
+VM Arguments:
+jvm_args: -Dorg.gradle.appname=gradlew 
+java_command: org.gradle.wrapper.GradleWrapperMain -q -Ptarget-platform=android-arm64 -Ptarget=C:\CODING\DEV SPACE\PROJECTS\FLUTTER\APPS\gooloads\lib\main.dart -Pdart-defines=Zmx1dHRlci5pbnNwZWN0b3Iuc3RydWN0dXJlZEVycm9ycz10cnVl,RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== -Pdart-obfuscation=false -Ptrack-widget-creation=true -Ptree-shake-icons=false -Pfilesystem-scheme=org-dartlang-root assembleDebug
+java_class_path (initial): C:\CODING\DEV SPACE\PROJECTS\FLUTTER\APPS\gooloads\android\\gradle\wrapper\gradle-wrapper.jar
+Launcher Type: SUN_STANDARD
+
+Environment Variables:
+JAVA_HOME=C:\Program Files\Android\Android Studio\jre
+CLASSPATH=C:\CODING\DEV SPACE\PROJECTS\FLUTTER\APPS\gooloads\android\\gradle\wrapper\gradle-wrapper.jar
+PATH=C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\CODING\Flutter\flutter\bin;C:\Program Files\nodejs\;C:\Users\dell\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\dell\AppData\Local\Programs\Python\Python39\;C:\Users\dell\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\dell\AppData\Local\Programs\Python\Python37\;C:\Users\dell\AppData\Local\Microsoft\WindowsApps;C:\Users\dell\AppData\Local\Programs\Microsoft VS Code\bin;C:\CODING workspace\Flutter SDK\flutter\bin;C:\Users\dell\AppData\Roaming\npm;C:\Program Files\Java\jdk-16.0.1\bin;
+USERNAME=dell
+OS=Windows_NT
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 69 Stepping 1, GenuineIntel
+
+
+
+---------------  S Y S T E M  ---------------
+
+OS: Windows 10.0 , 64 bit Build 19041 (10.0.19041.928)
+
+CPU:total 4 (initial active 4) (2 cores per cpu, 2 threads per core) family 6 model 69 stepping 1, cmov, cx8, fxsr, mmx, sse, sse2, sse3, ssse3, sse4.1, sse4.2, popcnt, avx, avx2, aes, clmul, erms, lzcnt, ht, tsc, tscinvbit, bmi1, bmi2
+
+Memory: 4k page, physical 8291760k(1628280k free), swap 11044332k(340k free)
+
+vm_info: OpenJDK 64-Bit Server VM (25.242-b01) for windows-amd64 JRE (1.8.0_242-release-1644-b01), built by "builder" with MS VC++ 10.0 (VS2010)
+
+time: Mon Aug 09 13:57:02 2021
+timezone: Romance Daylight Time
+elapsed time: 0 seconds (0d 0h 0m 0s)
+

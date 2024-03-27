@@ -1,0 +1,71 @@
+name: gooloads
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  animate_do: ^2.0.0
+  cached_network_image: ^3.1.0
+  carousel_slider: ^4.0.0
+  cloud_firestore: ^2.4.0
+  connectivity_plus: ^1.0.6
+  cupertino_icons: ^1.0.2
+  firebase_auth: ^3.0.1
+  firebase_core: ^1.4.0
+  firebase_storage: ^10.0.1
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^7.0.1
+  flutter_staggered_grid_view: ^0.4.0
+  flutter_svg: ^0.22.0
+  get_it: ^7.2.0
+  http: ^0.13.3
+  image_picker: ^0.8.3+1
+  permission_handler: ^8.1.4+2
+  provider: ^5.0.0
+  readmore: ^2.1.0
+  share: ^2.0.4
+  shared_preferences: ^2.0.6
+  shimmer: ^2.0.0
+  uuid: ^3.0.4
+  glitters: ^0.3.3
+  widgetbook: ^0.0.6 # A flutter package that helps cataloguing widgets. Inspired by Storybook.js and flutterbook.
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/svg/
+    - assets/icons/png/
+    - lib/src/services/api/fake_commerce_api/
+
+  fonts:
+    - family: Rubik
+      fonts:
+        - asset: assets/fonts/Rubik/Rubik-Light.ttf
+          weight: 100
+        - asset: assets/fonts/Rubik/Rubik-Regular.ttf
+          weight: 300
+        - asset: assets/fonts/Rubik/Rubik-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Rubik/Rubik-SemiBold.ttf
+          weight: 700
+        - asset: assets/fonts/Rubik/Rubik-Bold.ttf
+          weight: 900

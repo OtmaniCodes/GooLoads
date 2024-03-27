@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="15.91" viewBox="0 0 28 15.91">
+  <g id="filter_icon" data-name="filter icon" transform="translate(-262 -129.545)">
+    <g id="Rectangle_26" data-name="Rectangle 26" transform="translate(262 131)" stroke="#000" stroke-width="1">
+      <rect width="28" height="3" rx="1.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="27" height="2" rx="1" fill="none"/>
+    </g>
+    <g id="Rectangle_27" data-name="Rectangle 27" transform="translate(262 141)" stroke="#000" stroke-width="1">
+      <rect width="28" height="3" rx="1.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="27" height="2" rx="1" fill="none"/>
+    </g>
+    <path id="Path_8" data-name="Path 8" d="M2.955,0A2.955,2.955,0,1,1,0,2.955,2.955,2.955,0,0,1,2.955,0Z" transform="translate(280.958 129.545)"/>
+    <path id="Path_9" data-name="Path 9" d="M2.955,0A2.955,2.955,0,1,1,0,2.955,2.955,2.955,0,0,1,2.955,0Z" transform="translate(265.958 139.545)"/>
+  </g>
+</svg>
